@@ -1085,7 +1085,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://github.com/DNAZangy/ZangCube/blob/main/ZANG-files/Commit%20to%20Text%20.full.png?raw=true"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/ZangCube/main/ZANG-files/Commit%20to%20Text.full.png"
 	        }
 	    },
 	    {
@@ -1364,7 +1364,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/ZANGCube/main/ZANG-files/The Decline of Dr. Vaughn.full.png"
+	            "en": "https://github.com/DNAZangy/ZangCube/blob/main/ZANG-files/The%20Decline%20of%20Dr%20Vaughn.full.png?raw=true"
 	        }
 	    },
 	    {
