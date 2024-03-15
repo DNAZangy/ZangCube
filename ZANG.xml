@@ -1374,7 +1374,7 @@ Return target nonland permanent to its owner’s hand.
 Draw a card.</text>
 </card>
 <card>
- <name>Commit to Text </name>
+ <name>Commit to Text</name>
  <set rarity="mythic">ZANG</set>
  <color>U</color>
  <manacost>1U</manacost>
@@ -2738,7 +2738,7 @@ When Travelcart Caretaker enters, prevent all damage that would be dealt to targ
  <text>Whenever you gain life, create a white Saga enchantment token with that many chapters that has “Whenever you put a lore counter on this Saga, put a +1/+1 counter on target creature you control.</text>
 </card>
 <card>
- <name>Naktamun Trapper </name>
+ <name>Naktamun Trapper</name>
  <set rarity="mythic">ZANG</set>
  <color>W</color>
  <manacost>2W</manacost>
@@ -2747,8 +2747,8 @@ When Travelcart Caretaker enters, prevent all damage that would be dealt to targ
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Flying
-When Naktamun Trapper  enters, tap target creature and put two stun counters on it.
-Whenever Naktamun Trapper  deals combat damage to a player, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+When Naktamun Trapper enters, tap target creature and put two stun counters on it.
+Whenever Naktamun Trapper deals combat damage to a player, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
  <name>Rustic Harvester</name>
@@ -3588,7 +3588,7 @@ When Joyous Dvorovoi enters, destroy target artifact or enchantment.</text>
  <text>Whenever Dunesea Guide attacks, look at the top five cards of your library. Put up to one creature card with mana value 2 or less from among them onto the battlefield tapped and attacking. Put the rest on the bottom of your library in a random order.</text>
 </card>
 <card>
- <name>Slinky Mirrorkin </name>
+ <name>Slinky Mirrorkin</name>
  <set rarity="mythic">ZANG</set>
  <color>U</color>
  <manacost>2U</manacost>
@@ -3597,7 +3597,7 @@ When Joyous Dvorovoi enters, destroy target artifact or enchantment.</text>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Skulk (This creature can’t be blocked by creatures with greater power.)
-Whenever a creature card is put into your graveyard from anywhere, you may exile it. If you do, Slinky Mirrorkin  becomes a copy of that card, except it has this ability. (It won’t have skulk.)</text>
+Whenever a creature card is put into your graveyard from anywhere, you may exile it. If you do, Slinky Mirrorkin becomes a copy of that card, except it has this ability. (It won’t have skulk.)</text>
 </card>
 <card>
  <name>Goldnapper Sprite</name>
