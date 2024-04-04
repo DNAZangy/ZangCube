@@ -75,7 +75,7 @@ At the beginning of combat on your turn, if Grim Marshwood has 5 or more X count
  <tablerow>0</tablerow>
  <text>(T: Add U.)
 Tomb of the First Scholar enters tapped.
-Whenever a land enters under your control, if you control six or more lands with different names, create a Clue token. (It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)</text>
+Whenever a land enters under your control, if you control five or more Islands, create a Clue token. (It’s an artifact with “2, Sacrifice this artifact: Draw a card.”)</text>
 </card>
 <card>
  <name>Tomb of the First Fighter</name>
@@ -87,7 +87,7 @@ Whenever a land enters under your control, if you control six or more lands with
  <tablerow>0</tablerow>
  <text>(T: Add W.)
 Tomb of the First Fighter enters tapped.
-Whenever a land enters under your control, if you control six or more lands with different names, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+Whenever a land enters under your control, if you control five or more Plains, amass Soldiers 2. (Put two +1/+1 counters on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
 </card>
 <card>
  <name>Valley of Multitudes</name>
@@ -156,7 +156,7 @@ Remove a counter from a permanent you control, T: Add one mana of any color.</te
  <tablerow>0</tablerow>
  <text>(T: Add G.)
 Tomb of the First Shah enters tapped.
-Whenever a land enters under your control, if you control six or more lands with different names, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+Whenever a land enters under your control, if you control five or more Forests, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
  <name>The Place that Quenches the Flood</name>
@@ -217,7 +217,7 @@ T, Sacrifice Compiled Realms: Destroy target land without a basic land type.</te
  <tablerow>0</tablerow>
  <text>(T: Add B.)
 Tomb of the First Usurper enters tapped.
-Whenever a land enters under your control, if you control six or more lands with different names, you may return a creature card from your graveyard to your hand.</text>
+Whenever a land enters under your control, if you control five or more Swamps, you may return a creature card from your graveyard to your hand.</text>
 </card>
 <card>
  <name>Tomb of the First Tyrant</name>
@@ -229,7 +229,7 @@ Whenever a land enters under your control, if you control six or more lands with
  <tablerow>0</tablerow>
  <text>(T: Add R.)
 Tomb of the First Tyrant enters tapped.
-Whenever a land enters under your control, if you control six or more lands with different names, Tomb of the First Tyrant deals 2 damage to any target.</text>
+Whenever a land enters under your control, if you control five or more Mountains, Tomb of the First Tyrant deals 2 damage to any target.</text>
 </card>
 <card>
  <name>Arid Mesa</name>
@@ -785,7 +785,7 @@ Remove a fate counter from Ornate Sanctuary, T: Add one mana of any color.</text
  <pt>1/1</pt>
  <tablerow>2</tablerow>
  <text>Whenever a creature enters under your control, you gain 1 life.
-4W, T: Exile target creature you don’t control until you exile another card with Speaker of the Everwinter or it leaves the battlefield. Activate only as a sorcery.</text>
+4W, T: Exile another target creature you don’t control until you exile another card with Speaker of the Everwinter or it leaves the battlefield. Activate only as a sorcery.</text>
 </card>
 <card>
  <name>Whitaker Paladin</name>
@@ -820,7 +820,7 @@ Compose (Then if you cast this from your hand, exile it and create a Saga token 
  <type>Creature - Orc Cleric </type>
  <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>Whenever Cleanser of the Blessed Legacy or another creature enters under your control, you may exile a card from a graveyard. If you exile a creature card this way, put a+1/+1 counter on that creature. Otherwise, you gain 1 life.</text>
+ <text>Whenever Cleanser of the Blessed Legacy or another creature enters under your control, you may exile a card from a graveyard. If you exile a creature card this way, put a+1/+1 counter on that creature. If you don’t put a counter on a creature this way, you gain 1 life.</text>
 </card>
 <card>
  <name>Agnomakhos's Legionnaire</name>
@@ -1220,7 +1220,7 @@ When Omen of Heroes enters, proliferate. (Choose any number of permanents and/or
 Look at the top two cards of your library. Put one into your hand and the other on the bottom of your library.</text>
 </card>
 <card>
- <name>Thought Vessel</name>
+ <name>Thought Vase</name>
  <set rarity="mythic">ZANG</set>
  <color>U</color>
  <manacost>5U</manacost>
@@ -1228,8 +1228,8 @@ Look at the top two cards of your library. Put one into your hand and the other 
  <type>Artifact</type>
  <tablerow>1</tablerow>
  <text>Affinity for artifacts (This spell costs 1 less to cast for each artifact you control.)
-When Thought Vessel enters, draw two cards.
-2U, Sacrifice Thought Vessel: Draw a card.</text>
+When Thought Vase enters, draw two cards.
+2U, Sacrifice Thought Vase: Draw a card.</text>
 </card>
 <card>
  <name>Glimpse of Opulent's Eternity</name>
@@ -1436,11 +1436,11 @@ When your library has five or fewer cards in it, sacrifice Call of Marit Lage. I
  <cmc>2</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+ <text>
 Flash
-I — Tap target creature and put two stun counters on it.
-II — Surveil 2.
-III — Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+Tap target creature and put two stun counters on it.
+Surveil 2.
+Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
  <name>Nonstop Shop</name>
@@ -1458,10 +1458,10 @@ III — Proliferate. (Choose any number of permanents and/or players with counte
  <color>B</color>
  <manacost>3BB</manacost>
  <cmc>5</cmc>
- <type>Creature - Vampire Civilian </type>
- <pt>2/2</pt>
+ <type>Creature - Vampire Citizen </type>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>When Gutterpunk enters, create three 1/1 black Bat creature tokens with flying.
+ <text>When Gutterpunk enters, create two 1/1 black Bat creature tokens with flying.
 Whenever a creature you control dies, Gutterpunk deals 1 damage to target player or planeswalker and you gain 1 life.</text>
 </card>
 <card>
@@ -1482,7 +1482,7 @@ Whenever a creature you control dies, Gutterpunk deals 1 damage to target player
  <color>B</color>
  <manacost>1BB</manacost>
  <cmc>3</cmc>
- <type>Creature - Cat Monk Warlock </type>
+ <type>Creature - Cat Warlock </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>Lifelink
@@ -1842,7 +1842,7 @@ Whenever Wraithslayer deals combat damage to a player, that player exiles the to
  <cmc>1</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+ <text>
 I — Create a 1/1 red Warrior creature token with prowess.
 II — Discard a card. If you do, draw a card.
 III — You may return target instant or sorcery card from your graveyard to your hand.</text>
@@ -1971,11 +1971,11 @@ You may discard a card. If you do, draw a card.</text>
  <name>Spread the Calling Card</name>
  <set rarity="mythic">ZANG</set>
  <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
+ <manacost>R</manacost>
+ <cmc>1</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Exile up to one target artifact. Create a Weapon token and attach it to up to one target creature. (It’s an Equipment artifact with equip 2 and “Equipped creature gets +1/+1.”)</text>
+ <text>Spread the Calling Card deals 3 damage to target creature.</text>
 </card>
 <card>
  <name>Bastazim's Command</name>
@@ -2002,14 +2002,16 @@ You may discard a card. If you do, draw a card.</text>
  <text>Devastating Blast deals X damage divided as you choose among any number of targets. If X is 5 or more, it deals twice X damage divided as you choose among them instead.</text>
 </card>
 <card>
- <name>Begin the March</name>
+ <name>Acidic Eruption</name>
  <set rarity="mythic">ZANG</set>
  <color>R</color>
- <manacost>1R</manacost>
- <cmc>2</cmc>
+ <manacost>2R</manacost>
+ <cmc>3</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Exile the top two cards of your library. Until your next end step, you may play those cards. At the beginning of your next end step, for each card that you didn’t play, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)</text>
+ <text>Choose one —
+• Acidic Eruption deals 4 damage to any target.
+• Acidic Eruption deals 2 damage to each creature, planeswalker, and player.</text>
 </card>
 <card>
  <name>Impending Peril</name>
@@ -2129,10 +2131,11 @@ G, Sacrifice Orcish Sentinel: Destroy target noncreature artifact or noncreature
  <color>G</color>
  <manacost>G</manacost>
  <cmc>1</cmc>
- <type>Creature - Dryad </type>
- <pt>0/3</pt>
+ <type>Enchantment Creature - Nymph Shard </type>
+ <pt>1/1</pt>
  <tablerow>2</tablerow>
- <text>T: Add one mana of any color.</text>
+ <text>T: Add G.
+2, T, Sacrifice Utopia Pair: Scry 1, then draw a card.</text>
 </card>
 <card>
  <name>Fyndhorn Shaman</name>
@@ -2233,7 +2236,7 @@ Escape—1G, Exile three other cards from your graveyard. (You may cast this car
  <cmc>1</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+ <text>
 I — Target creature you control fights up to one target creature you don’t control.
 II — Mill three cards.
 III — Return up to one creature card and up to one land card from your graveyard to your hand.</text>
@@ -2268,8 +2271,8 @@ Escape—GG, Sacrifice creatures with total power X or greater, Exile X other ca
  <color>G</color>
  <manacost>1G</manacost>
  <cmc>2</cmc>
- <type>Sorcery</type>
- <tablerow>3</tablerow>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
  <text>Whenever a creature you control dies, put a story counter on As Fact Becomes Fable.
 At the beginning of your end step, you may remove X story counters from As Fact Becomes Fable. If you do, search your library for up to one creature card with mana value X or less and put it onto the battlefield, then shuffle.</text>
 </card>
@@ -2685,13 +2688,13 @@ Witherblade Strike deals 2 damage to any target.</text>
  <name>Retribution</name>
  <set rarity="mythic">ZANG</set>
  <color>W</color>
- <manacost>WW</manacost>
+ <manacost>1W</manacost>
  <cmc>2</cmc>
  <type>Creature - Incarnation </type>
- <pt>*/*</pt>
+ <pt>*/4</pt>
  <tablerow>2</tablerow>
  <text>Lifelink
-Retribution’s power and toughness are each equal to your devotion to white. (Each W in the mana costs of permanents you control counts toward your devotion to white.)</text>
+Retribution’s power is equal to your devotion to white. (Each W in the mana costs of permanents you control counts toward your devotion to white.)</text>
 </card>
 <card>
  <name>Warkrei Saboteuse</name>
@@ -2700,9 +2703,9 @@ Retribution’s power and toughness are each equal to your devotion to white. (E
  <manacost>1W</manacost>
  <cmc>2</cmc>
  <type>Creature - Elf Soldier Scout </type>
- <pt>1/3</pt>
+ <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>When Warkrei Saboteuse enters, target player exiles a card from their hand. If they exile a nonland card this way, for as long as that card remains exiled, its owner may play it. A spell cast this way costs 2 more to cast.</text>
+ <text>When Warkrei Saboteuse enters, target player exiles a card from their hand. For as long as that card remains exiled and you control Warkrei Saboteuse, its owner may cast that card. A spell cast this way costs 2 more to cast.</text>
 </card>
 <card>
  <name>Crimson Mist Ambush</name>
@@ -2828,7 +2831,8 @@ Whenever a player draws their second card each turn, put a +1/+1 counter on Toot
  <type>Creature - Elemental Bard </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>Whenever an enchantment enters under your control, create a 1/1 white Spirit creature token with flying.</text>
+ <text>Whenever an enchantment enters under your control, amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
+Soldiers you control have flying.</text>
 </card>
 <card>
  <name>Dust Scatterer</name>
@@ -3049,7 +3053,7 @@ When Scrappy Sidekick enters, discard any number of cards, then draw that many c
  <color>R</color>
  <manacost>1R</manacost>
  <cmc>2</cmc>
- <type>Legendary Creature - Horror </type>
+ <type>Legendary Creature - Horror Incarnation </type>
  <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Indestructible
@@ -3386,18 +3390,17 @@ Planeswalkers enter under your control with an additional loyalty counter on the
 </text>
 </card>
 <card>
- <name>Ifera</name>
+ <name>Mireio</name>
  <set rarity="mythic">ZANG</set>
  <color>B</color>
- <manacost>BB</manacost>
- <cmc>2</cmc>
- <type>Legendary Planeswalker - Ifera </type>
- <loyalty>2</loyalty>
+ <manacost>2BB</manacost>
+ <cmc>4</cmc>
+ <type>Legendary Planeswalker - Mireio </type>
+ <loyalty>4</loyalty>
  <tablerow>1</tablerow>
- <text>Whenever you cast a nonblack spell, put a loyalty counter on Ifera. This ability triggers once each turn.
-[+1]: Create a Treasure token. You lose 1 life. (It’s an artifact with “T, Sacrifice this artifact: Add one mana of any color.”)
-[0]: Reveal the top card of your library and put it into your hand. You lose life equal to its mana value.
-[-4]: Destroy target monocolored creature.
+ <text>If damage would be dealt to Mireio while you control a creature with a cage counter on it, that damage is dealt to a permanent you control with a cage counter on it instead.
+[+1]: You may sacrifice a creature. If you do, draw two cards. If you don’t, put a cage counter on a creature you control.
+[-3]: Create two 2/2 black Zombie creature tokens with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
 </text>
 </card>
 <card>
@@ -3423,7 +3426,7 @@ Planeswalkers enter under your control with an additional loyalty counter on the
  <type>Legendary Planeswalker - Kamden </type>
  <loyalty>2</loyalty>
  <tablerow>1</tablerow>
- <text>Sacrifice a creature: Prevent all damage that would be dealt to Kamden by the source of your choice this turn.
+ <text>Sacrifice a nonblocking creature: Prevent all damage that would be dealt to Kamden by the source of your choice this turn.
 [+1]: Create a 0/1 white Serf creature token.
 [-2]: Each player sacrifices a creature.
 [-6]: You get an emblem with “Whenever a creature you control dies, each opponent loses 1 life and you gain 1 life.” Then destroy all creatures.
@@ -3516,16 +3519,16 @@ When Omen of Destiny enters, it deals 4 damage to any target.
  <text>Target player sacrifices an attacking or blocking creature.</text>
 </card>
 <card>
- <name>Dessicated Maidens</name>
+ <name>Desiccated  Maidens</name>
  <set rarity="mythic">ZANG</set>
  <color>W</color>
  <manacost>2W</manacost>
  <cmc>3</cmc>
  <type>Creature - Zombie </type>
- <pt>2/2</pt>
+ <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>When Dessicated Maidens enters, exile up to one target nontoken creature.
-When Dessicated Maidens leaves the battlefield, the exiled card’s owner amasses Soldiers X, where X is the mana value of the exiled card. (To amass Soldiers X, that player puts X +1/+1 counters on an Army they control. It’s also a Soldier. If they don’t control an Army, they create a 0/0 black Soldier Army creature token first.)</text>
+ <text>Desiccated  Maidens enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+When Desiccated  Maidens enters, exile target creature an opponent controls until Desiccated  Maidens leaves the battlefield.</text>
 </card>
 <card>
  <name>The Just King</name>
@@ -3544,7 +3547,7 @@ When Dessicated Maidens leaves the battlefield, the exiled card’s owner amasse
  <color>W</color>
  <manacost>2W</manacost>
  <cmc>3</cmc>
- <type>Creature - Faerie Citizen </type>
+ <type>Creature - Faerie </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
  <text>Prowess (Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)
@@ -3643,13 +3646,13 @@ When Nautopian Seashaper enters, if you cast it, create a token that’s a copy 
  <name>Spawn of Inadequacy</name>
  <set rarity="mythic">ZANG</set>
  <color>U</color>
- <manacost>2U</manacost>
+ <manacost>1UU</manacost>
  <cmc>3</cmc>
  <type>Creature - Shapeshifter </type>
  <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>Deception 1U (1U, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
-Whenever Spawn of Inadequacy deals combat damage to a player, exile target instant or sorcery card from your graveyard. For as long as it remains exiled, you may cast it. Whenever you do, put it on the bottom of your library instead of putting it into a graveyard as it resolves.</text>
+ <text>Deception 1UU (1UU, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Spawn of Inadequacy deals combat damage to a player, create a token that’s a copy of target creature you control.</text>
 </card>
 <card>
  <name>Bizaare Vendor</name>
@@ -3679,10 +3682,10 @@ Creatures your opponents control with stun counters on them lose all abilities.<
  <name>The Answer to No Question</name>
  <set rarity="mythic">ZANG</set>
  <color>U</color>
- <manacost>1UU</manacost>
- <cmc>3</cmc>
+ <manacost>2UU</manacost>
+ <cmc>4</cmc>
  <type>Riddle Creature - Sphinx Incarnation </type>
- <pt>3/3</pt>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
  <text>Flash
 Flying
@@ -4076,7 +4079,7 @@ Whenever you gain life, Netherweave Harbinger deals that much damage to any targ
  <type>Creature - Human Berserker </type>
  <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>First strike
+ <text>Menace
 Whenever one or more sources you control deal damage to an opponent, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
@@ -4164,9 +4167,9 @@ Whenever one or more sources you control deal damage to an opponent, proliferate
  <type>Legendary Planeswalker - Erwan </type>
  <loyalty>3</loyalty>
  <tablerow>1</tablerow>
- <text>[0]: Put a loyalty counter on each planeswalker you control. You gain life equal to the number of planeswalkers you control.
-[-1]: Until your next turn, prevent all damage that would be dealt to other planeswalkers you control.
-[-6]: Exile cards from the top of your library until you exile a planeswalker card. Put that card onto the battlefield. Put the rest on the bottom of your library in a random order.
+ <text>[+1]: Put a loyalty counter or a +1/+1 counter on another target permanent.
+[-X]: Exile target planeswalker card from your graveyard. You may activate one of its loyalty abilities with a cost of -X or less without paying its costs.
+[-8]: Return any number of planeswalker cards you own in exile and in your graveyard to the battlefield.
 </text>
 </card>
 <card>
@@ -4204,9 +4207,9 @@ Whenever one or more sources you control deal damage to an opponent, proliferate
  <manacost>1BR</manacost>
  <cmc>3</cmc>
  <type>Legendary Planeswalker - Ludolf </type>
- <loyalty>2</loyalty>
+ <loyalty>3</loyalty>
  <tablerow>1</tablerow>
- <text>[0]: Each player discards a card. Put a loyalty counter on Ludolf for each nonland card discarded this way. If no cards were discarded this way, each opponent loses 2 life.
+ <text>[+1]: Each player discards a card. If no cards were discarded this way, each opponent loses 2 life.
 [-2]: Each opponent sacrifices a nonland permanent. Exile each card that shares a card type with that permanent from that player’s graveyard.
 [-6]: Target player sacrifices three permanents that don’t share any card types with each other.
 </text>
@@ -4280,7 +4283,7 @@ Whenever one or more sources you control deal damage to an opponent, proliferate
  <text>Whenever you cast a noncreature spell, you may activate one of Tsunayoshi’s loyalty abilities. This ability triggers only once each turn.
 [+1]: Put a +1/+1 on up to one target creature. It gains lifelink until end of turn.
 [0]: Create a 1/1 red Warrior creature token with prowess.
-[-8]: Untap all creatures you control. They gain flying and double strike until end of turn.
+[-8]: Creatures you control gain flying and double strike until end of turn.
 </text>
 </card>
 <card>
@@ -4372,7 +4375,7 @@ Each planeswalker you control enters with an additional loyalty counter on it.</
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>Vigilance
-Whenever you cast a spell from anywhere other than your hand, create a 3/3 white Angel Soldier creature token.</text>
+Whenever you cast a spell from anywhere other than your hand, create a 3/3 white Angel Soldier creature token with flying.</text>
 </card>
 <card>
  <name>Nowhere Explorer</name>
@@ -4405,10 +4408,9 @@ At the beginning of combat on your turn, until end of turn, up to one target enc
  <manacost>2UU</manacost>
  <cmc>4</cmc>
  <type>Artifact Creature - Construct </type>
- <pt>0/0</pt>
+ <pt>3/3</pt>
  <tablerow>2</tablerow>
- <text>Rabota Line Worker gets +1/+1 for each artifact you control.
-Whenever another artifact enters under your control, you may have it become a Construct creature in addition to its other types. If you do, it gains “This creature gets +1/+1 for each artifact you control.”</text>
+ <text>Whenever Rabota Line Worker or another artifact you control enters, you may put an animation counter on it. If you do, it becomes an artifact creature with base power and toughness 0/0 and it gains “This creature gets +1/+1 for each artifact you control.”</text>
 </card>
 <card>
  <name>Agent of the Council</name>
@@ -4456,7 +4458,7 @@ You may pay life equal to a spell’s mana value rather than pay its mana cost.<
  <pt>5/5</pt>
  <tablerow>2</tablerow>
  <text>Deception 1BBB (1BBB, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
-Whenever Butcher of the Three Paths deals combat damage to a player, that player exiles cards from the top of their library until they exile a nonland card. You may cast that card without paying its mana cost. If you don’t, that player loses life equal to the number of cards exiled this way.</text>
+Whenever Butcher of the Three Paths deals combat damage to a player, exile the top five cards of their library. You may cast a card exiled this way without paying its mana cost.</text>
 </card>
 <card>
  <name>Titan of Urborg</name>
@@ -4625,7 +4627,7 @@ Choose one —
  <manacost>2UB</manacost>
  <cmc>4</cmc>
  <type>Creature - Angel Artificer </type>
- <pt>3/3</pt>
+ <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>Flying
 Whenever you cast an artifact spell, create a 1/1 colorless Thopter artifact creature token with flying.
@@ -4692,15 +4694,14 @@ Whenever you cast a spell, you may mill a card.</text>
  <name>Devika</name>
  <set rarity="mythic">ZANG</set>
  <color>B</color>
- <manacost>2BB</manacost>
- <cmc>4</cmc>
+ <manacost>1BB</manacost>
+ <cmc>3</cmc>
  <type>Legendary Planeswalker - Devika </type>
  <loyalty>3</loyalty>
  <tablerow>1</tablerow>
  <text>Vigor — At the beginning of your end step, if your life total has changed this turn, Devika phases out.
 [+1]: Create a 2/2 black Zombie creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)
-[-2]: Distribute three -1/-1 counters on any number of target creatures. You lose 3 life.
-[-7]: You get an emblem with “At the beginning of each end step, each opponent loses life equal to the amount of life you’ve gained this turn.”
+[-2]: Put three -1/-1 counters on target creature. You lose 3 life.
 </text>
 </card>
 <card>
@@ -4753,23 +4754,23 @@ Basic landcycling 1G (1G, Discard this card: Search your library for a basic lan
  <type>Legendary Planeswalker - Marilye </type>
  <loyalty>4</loyalty>
  <tablerow>1</tablerow>
- <text>[+1]: Reveal the top three cards of your library. You may put an artifact card from among them into your hand. Put the rest on the bottom of your library in any order.
+ <text>[+1]: Reveal the top card of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
 [-X]: Create a token that’s a copy of target artifact with mana value X.
 [-8]: You get an emblem with “Whenever you cast an artifact spell, gain control of target nonland permanent with mana value less than or equal to that spell.”
 </text>
 </card>
 <card>
- <name>Togar — redesign</name>
+ <name>Togar</name>
  <set rarity="mythic">ZANG</set>
  <color>R</color>
- <manacost>1RR</manacost>
- <cmc>3</cmc>
+ <manacost>2RR</manacost>
+ <cmc>4</cmc>
  <type>Legendary Planeswalker - Togar </type>
- <loyalty>3</loyalty>
+ <loyalty>4</loyalty>
  <tablerow>1</tablerow>
- <text>[+1]: Togar — Redesign deals 2 damage to each opponent. Players dealt damage this way can’t cast spells this turn.
-[-2]: You may sacrifice a creature. When you do, Togar — Redesign deals damage to any target equal to the sacrificed creature’s power.
-[-8]: New ability
+ <text>[+1]: Togar deals 2 damage to target player. They can’t cast spells this turn.
+[-2]: Sacrifice a creature. Togar deals damage equal to that creature’s power to any target.
+[-7]: Each opponent gets an emblem with “If a source would deal damage to you, it deals double that damage instead.”
 </text>
 </card>
 <card>
@@ -4856,12 +4857,10 @@ When Surtland Rampager enters the battlefield, it deals 2 damage to each creatur
  <color>G</color>
  <manacost>4G</manacost>
  <cmc>5</cmc>
- <type>Creature - Giant Rnager </type>
- <pt>3/3</pt>
+ <type>Creature - Giant Ranger </type>
+ <pt>4/3</pt>
  <tablerow>2</tablerow>
- <text>When Rottimber Lurker enters, choose one —
-• Search your library for a land card, put it onto the battlefield tapped, then shuffle.
-• Create a 1/1 green Squirrel creature token for each differently named land you control.</text>
+ <text>When Rottimber Lurker enters or dies, search your library for a land card, put it onto the battlefield tapped, then shuffle.</text>
 </card>
 <card>
  <name>Attwater General</name>
@@ -4949,10 +4948,9 @@ Whenever you tap a permanent for mana, add one mana of any type that permanent p
  <type>Legendary Planeswalker - Bastazim </type>
  <loyalty>5</loyalty>
  <tablerow>1</tablerow>
- <text>At the beginning of your end step, Bastazim deals 1 damage to each other planeswalker. Put a loyalty counter on Bastazim for each permanent dealt damage this way.
-[+2]: Exile the top three cards of your library. You may play a card exiled this way this turn.
+ <text>[+2]: Exile the top three cards of your library. You may play a card exiled this way this turn.
 [-4]: Bastazim deals 4 damage to each creature.
-[-13]: For each other planeswalker you control, activate one of their abilities as if they had thirty loyalty counters on them.
+[-10]: For each other planeswalker you control, activate one of their abilities as if they had thirty loyalty counters on them.
 </text>
 </card>
 <card>
@@ -4964,8 +4962,8 @@ Whenever you tap a permanent for mana, add one mana of any type that permanent p
  <type>Legendary Planeswalker - Hayat </type>
  <loyalty>4</loyalty>
  <tablerow>1</tablerow>
- <text>[+1]: Return up to one target permanent card from your graveyard to the battlefield. It becomes a 2/2 green Insect creature.
-[-1]: You may sacrifice a permanent. If you do, each opponent sacrifices a permanent that shares a type with it.
+ <text>Whenever you activate one of Hayat’s loyalty abilities, create two 1/1 green Insect creature tokens.
+[+1]: Each player sacrifices a permanent.
 [-3]: Target opponent sacrifices a permanent. Create a number of 1/1 green Insect creature tokens equal to six minus that permanent’s mana value.
 </text>
 </card>
@@ -4978,24 +4976,9 @@ Whenever you tap a permanent for mana, add one mana of any type that permanent p
  <type>Legendary Enchantment Planeswalker - Koios </type>
  <loyalty>5</loyalty>
  <tablerow>1</tablerow>
- <text>[+1]: Create a token that’s a copy of Unfettered Eidolon. (It’s a 3/3 red Spirit Soldier enchantment creature that costs 2R with “This can’t block unless you control another enchantment.”)
+ <text>[+1]: Conjure an Unfettered Eidolon onto the battlefield. (It’s a 3/3 enchantment creature that costs 2R that can’t block unless you control another enchantment.)
 [-2]: Koios deals damage to any target equal to your devotion to red. (Each R in the mana costs of permanents you control counts toward your devotion to red.)
-[-10]: Exile all but the bottom card of your library. You may cast red cards exiled this way without paying their mana costs.
-</text>
-</card>
-<card>
- <name>Percy</name>
- <set rarity="mythic">ZANG</set>
- <color>WB</color>
- <manacost>4WB</manacost>
- <cmc>6</cmc>
- <type>Legendary Planeswalker - Perceval </type>
- <loyalty>6</loyalty>
- <tablerow>1</tablerow>
- <text>Whenever a nontoken creature attacks, exile that creature. That creature’s controller creates a tapped token that’s a copy of that creature except its a Construct in addition to its other types. (It’s not attacking.)
-[+1]: Each opponent loses 3 life. You gain 3 life. 
-[-3]: Destroy target tapped nonland permanent.
-[-5]: Create a white enchantment token named Adoring Fans with “At the beginning of combat on your turn, create a 1/1 colorless Construct Actor creature token.”
+[-10]: Exile all but the bottom card of your library. You may cast any number of red cards exiled this way without paying their mana costs.
 </text>
 </card>
 <card>
@@ -5005,12 +4988,12 @@ Whenever you tap a permanent for mana, add one mana of any type that permanent p
  <manacost>3UB</manacost>
  <cmc>5</cmc>
  <type>Legendary Planeswalker - Salome </type>
- <loyalty>4</loyalty>
+ <loyalty>5</loyalty>
  <tablerow>1</tablerow>
- <text>Instant and sorcery spells you cast from your hand have compose. (Exile the spell as it resolves if you cast it from your hand. Create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)
-[+1]: Draw a card. Untap up to one land.
-[-2]: For each player, return up to one target nonland permanent that player controls to its owner’s hand.
-[-7]: You get an emblem with “Whenever you cast your second spell each turn, gain control of target creature.”
+ <text>Whenever you cast your first spell each turn, untap up to two lands you control.
+[+1]: Draw a card.
+[-2]: For each player, return up to one target nonland permanent that player controls or card in that player’s graveyard to its owner’s hand.
+[-9]: You get an emblem with “Whenever you cast your second spell each turn, gain control of target creature.”
 </text>
 </card>
 <card>
@@ -5024,7 +5007,7 @@ Whenever you tap a permanent for mana, add one mana of any type that permanent p
  <tablerow>1</tablerow>
  <text>Other planeswalkers’ loyalty abilities you activate cost an additional +1 to activate.
 [+1]: Until your next turn, other planeswalkers you control have protection from everything.
-[-2]: Look at the top seven cards of your library. You may reveal a planeswalker card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. If you didn’t put a card into your hand this way,  
+[-3]: Create three 1/1 white Spirit creature tokens with flying.
 [-9]: Destroy all nonplaneswalker permanents.
 </text>
 </card>
@@ -5052,9 +5035,8 @@ Whenever you tap a permanent for mana, add one mana of any type that permanent p
  <loyalty>5</loyalty>
  <tablerow>1</tablerow>
  <text>At the beginning of each opponent’s upkeep, if that player has no cards in hand, you draw a card and Waldemar deals 1 damage to you.
-[+1]: Target player discards a card unless they sacrifice a permanent.
+[+1]: Target player discards a card. If they can’t, that player sacrifices a nonland permanent.
 [-2]: Destroy target creature unless its controller discards two cards.
-[-9]: Target player chooses a number of permanents equal to the number of cards in their hand, then sacrifices the rest.
 </text>
 </card>
 <card>
@@ -5074,12 +5056,13 @@ Put three +1/+1 counters on target noncreature artifact or enchantment. It becom
  <name>Fathomless Grasper</name>
  <set rarity="mythic">ZANG</set>
  <color>U</color>
- <manacost>7UU</manacost>
- <cmc>9</cmc>
+ <manacost>5UU</manacost>
+ <cmc>7</cmc>
  <type>Creature - Octopus Shapeshifter </type>
  <pt>8/8</pt>
  <tablerow>2</tablerow>
- <text>You may have Fathomless Grasper enter the battlefield as a copy of any creature on the battlefield, except it’s 8/8 Octopus Shapeshifter in addition to its other types and has “At the beginning of your upkeep, if you control fewer than seven creatures that share a name with this creature, if it isn’t a token, create a token that’s a copy of it, except it is a 1/1 Tentacle creatures in addition to their other types.”</text>
+ <text>Ward 3 (Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays 3.)
+Whenever another creature enters the battlefield, you may have that creature become a 1/1 Fish or an 8/8 Octopus. (Instead of its other types.)</text>
 </card>
 <card>
  <name>Titan of the Great Furnace</name>
@@ -5143,9 +5126,9 @@ When Abomination of Draszke enters, another target creature you control fights u
  <type>Legendary Planeswalker - Kateryna </type>
  <loyalty>4</loyalty>
  <tablerow>1</tablerow>
- <text>[+1]: Reveal the top five cards of your library. You may put an enchantment card from among them onto the battlefield and the rest on the bottom of your library in a random order.
+ <text>[+1]: You may create a Pacifism Aura enchantment token. (It’s an Aura that prevents the creature from attacking or blocking.)
 [0]: Create Yaromir, a legendary 0/0 white Fox creature token with “This creature gets +1/+1 for each enchantment you control.”
-[-3]: For each creature you don’t control, create a Pacifism Aura enchantment token attached to that creature. (It’s an Aura that prevents the creature from attacking or blocking.)
+[-7]: Creatures you control get +X/+X until end of turn, where X is the number of enchantments you control.
 </text>
 </card>
 <card>
@@ -5210,9 +5193,8 @@ Whenever Angler Wurm deals combat damage to a player, create a token that’s a 
  <loyalty>5</loyalty>
  <tablerow>1</tablerow>
  <text>When you cast this spell, return all nonland permanents to their owners’ hands.
-[+2]: Draw three cards, then put a card from your hand on the bottom of your library.
-[-1]: Tap all permanents you don’t control. Each opponent distributes three stun counters among permanents they control. 
-[-11]: You get an emblem with “Whenever an opponent casts a spell, you may copy that spell. You may choose new targets for the copy.”
+[+3]: Draw three cards, then put a card from your hand on the bottom of your library.
+[-2]: Tap all permanents you don’t control. Each opponent distributes four stun counters among permanents they control. 
 </text>
 </card>
 <card>
@@ -5340,16 +5322,15 @@ Equipped creature gets +1/+1 for each +1/+1 counter on Blade of the Worthy and g
 Equip 0</text>
 </card>
 <card>
- <name>Unlikely Hero</name>
+ <name>Stonevale Outlander</name>
  <set rarity="mythic">ZANG</set>
  <color>W</color>
  <manacost>1W</manacost>
  <cmc>2</cmc>
- <type>Creature - Human Warrior </type>
- <pt>1/3</pt>
+ <type>Creature - Orc Scout </type>
+ <pt>3/1</pt>
  <tablerow>2</tablerow>
- <text>Teamwork — Shield (Whenever this creature deals combat damage to a player, you may put a shield counter on another target creature. If a creature with a shield counter on it would be dealt damage or destroyed, remove a shield counter from it instead.)
-Whenever Unlikely Hero deals combat damage to a creature, if Unlikely Hero is attacking, put a +1/+1 counter on it.</text>
+ <text>Teamwork — +1/+1 (Whenever this creature deals combat damage to a player, you may put a +1/+1 counter on another target creature or planeswalker.)</text>
 </card>
 <card>
  <name>Corrupted Valkyrie</name>
@@ -5374,16 +5355,16 @@ Spells cost an additional H to cast. (H can be paid by 1 or 2 life.)</text>
  <text>Constellation — Whenever March of Hollowed Bodies or another enchantment enters under your control, create a 2/2 black Zombie creature token with decayed. (It can’t block. When it attacks, sacrifice it at end of combat.)</text>
 </card>
 <card>
- <name>Doomskar Herald</name>
+ <name>Herald of Tkabbir</name>
  <set rarity="mythic">ZANG</set>
  <color>G</color>
- <manacost>3G</manacost>
+ <manacost>2GG</manacost>
  <cmc>4</cmc>
- <type>Creature - Human Warrior </type>
- <pt>2/2</pt>
+ <type>Creature</type>
+ <pt>4/4</pt>
  <tablerow>2</tablerow>
- <text>Creatures you control have “Teamwork — +1/+1” (Whenever that creature deals combat damage to a player, you may put a +1/+1 counter on another target creature.)
-At the beginning of your end step, you may remove X counters from Doomskar Herald. If you do, search your library for a creature card with mana value X or less and put it onto the battlefield, then shuffle. X can’t be 0.</text>
+ <text>Creatures you control have teamwork — +1/+1 counter. (Whenever this creature deals combat damage to a player, you may put a +1/+1 counter counter on another target creature or planeswalker.)
+Whenever you attack, creatures you control with power 4 or greater gain trample until end of turn.</text>
 </card>
 <card>
  <name>Karo Stone</name>
@@ -5397,14 +5378,14 @@ At the beginning of your end step, you may remove X counters from Doomskar Heral
 Whenever a permanent you control leaves the battlefield, you gain life equal to the number of counters on it.</text>
 </card>
 <card>
- <name>Call the Backup Actors</name>
+ <name>Recoup Vigor</name>
  <set rarity="mythic">ZANG</set>
  <color>G</color>
  <manacost>G</manacost>
  <cmc>1</cmc>
- <type>Sorcery</type>
+ <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Create a 1/1 colorless Construct Actor creature token. If you control another Construct, put a +1/+1 counter on it.
+ <text>Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
 Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
 </card>
 <card>
@@ -5427,7 +5408,7 @@ Compose (Then if you cast this from your hand, exile it and create a Saga token 
  <type>Creature - Human Bard </type>
  <pt>1/2</pt>
  <tablerow>2</tablerow>
- <text>Teamwork — +1/+1 (Whenever this creature deals combat damage to a player, you may put a +1/+1 counter on another target creature.)</text>
+ <text>Teamwork — +1/+1 (Whenever this creature deals combat damage to a player, you may put a +1/+1 counter on another target creature or planeswalker.)</text>
 </card>
 <card>
  <name>Punch Out of Reality</name>
@@ -5475,8 +5456,22 @@ Create a Clue token. (It’s an artifact with “2, Sacrifice this artifact: Dra
  <pt>1/2</pt>
  <tablerow>2</tablerow>
  <text>Menace
-Teamwork — Menace (Whenever this creature deals combat damage to a player, you may put a Menace counter on another target creature.)
+Teamwork — Menace (Whenever this creature deals combat damage to a player, you may put a Menace counter on another target creature or planeswalker.)
 Whenever High Roller or another creature you control with menace dies, High Roller deals 1 damage to each opponent.</text>
+</card>
+<card>
+ <name>Percy</name>
+ <set rarity="mythic">ZANG</set>
+ <color>WB</color>
+ <manacost>4WB</manacost>
+ <cmc>6</cmc>
+ <type>Legendary Planeswalker - Perceval </type>
+ <loyalty>5</loyalty>
+ <tablerow>1</tablerow>
+ <text>Whenever a nontoken creature attacks, exile that creature. That creature’s controller creates a tapped token that’s a copy of that creature except its a Construct in addition to its other types. (It’s not attacking.)
+[+1]: Each opponent loses 3 life. You gain 3 life. 
+[-2]: Destroy target tapped nonland permanent.
+</text>
 </card>
 
 <!-->Tokens</-->
@@ -5603,11 +5598,11 @@ Enchanted creature can’t attack or block.</text>
  <type>Token Enchantment - Aura </type>
  <tablerow>1</tablerow>
  <text>Enchant creature
-Umbra armor (If enchanted permanent would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
+Umbra armor (If enchanted creature would be destroyed, instead remove all damage from it and destroy this Aura.)</text>
  <token>1</token>
 </card>
 <card>
- <name>Yaromir</name>
+ <name>Yaromir token</name>
  <set>ZANG</set>
  <color>W</color>
  <type>Token Legendary Creature - Fox </type>
