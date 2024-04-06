@@ -5,7 +5,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDower Mountainside.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Dower Mountainside.full.png"
 	        }
 	    },
 	    {
@@ -14,7 +14,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCloistered Yew.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Cloistered Yew.full.png"
 	        }
 	    },
 	    {
@@ -23,7 +23,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRemote Trail.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Remote Trail.full.png"
 	        }
 	    },
 	    {
@@ -32,7 +32,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesUneasy Lakeside.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Uneasy Lakeside.full.png"
 	        }
 	    },
 	    {
@@ -41,7 +41,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGrim Marshwood.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Grim Marshwood.full.png"
 	        }
 	    },
 	    {
@@ -50,7 +50,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTomb of the First Scholar.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tomb of the First Scholar.full.png"
 	        }
 	    },
 	    {
@@ -59,7 +59,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTomb of the First Fighter.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tomb of the First Fighter.full.png"
 	        }
 	    },
 	    {
@@ -68,7 +68,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesValley of Multitudes.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Valley of Multitudes.full.png"
 	        }
 	    },
 	    {
@@ -77,7 +77,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWavering Horizon.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Wavering Horizon.full.png"
 	        }
 	    },
 	    {
@@ -86,7 +86,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesShambling Hamlet.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Shambling Hamlet.full.png"
 	        }
 	    },
 	    {
@@ -95,7 +95,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFlux Gateway.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Flux Gateway.full.png"
 	        }
 	    },
 	    {
@@ -104,7 +104,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKanna Bastion.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Kanna Bastion.full.png"
 	        }
 	    },
 	    {
@@ -113,7 +113,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTomb of the First Shah.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tomb of the First Shah.full.png"
 	        }
 	    },
 	    {
@@ -122,7 +122,7 @@
 	        "mana_cost": "",
 	        "type": "Riddle Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Place that Quenches the Flood.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Place that Quenches the Flood.full.png"
 	        }
 	    },
 	    {
@@ -131,7 +131,7 @@
 	        "mana_cost": "",
 	        "type": "Riddle Creature — Angel Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAdversarial Savior.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Adversarial Savior.full.png"
 	        }
 	    },
 	    {
@@ -140,7 +140,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesIlysian Fields.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ilysian Fields.full.png"
 	        }
 	    },
 	    {
@@ -149,7 +149,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCompiled Realms.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Compiled Realms.full.png"
 	        }
 	    },
 	    {
@@ -158,7 +158,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTomb of the First Usurper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tomb of the First Usurper.full.png"
 	        }
 	    },
 	    {
@@ -167,7 +167,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTomb of the First Tyrant.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tomb of the First Tyrant.full.png"
 	        }
 	    },
 	    {
@@ -176,7 +176,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesArid Mesa.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Arid Mesa.full.png"
 	        }
 	    },
 	    {
@@ -185,7 +185,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAsh Barrens.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ash Barrens.full.png"
 	        }
 	    },
 	    {
@@ -194,7 +194,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBarren Ashlands.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Barren Ashlands.full.png"
 	        }
 	    },
 	    {
@@ -203,7 +203,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBloodstained Mire.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bloodstained Mire.full.png"
 	        }
 	    },
 	    {
@@ -212,7 +212,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBuried Colossus.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Buried Colossus.full.png"
 	        }
 	    },
 	    {
@@ -221,7 +221,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Amnesty.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Amnesty.full.png"
 	        }
 	    },
 	    {
@@ -230,7 +230,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Artistry.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Artistry.full.png"
 	        }
 	    },
 	    {
@@ -239,7 +239,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Bravery.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Bravery.full.png"
 	        }
 	    },
 	    {
@@ -248,7 +248,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Charity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Charity.full.png"
 	        }
 	    },
 	    {
@@ -257,7 +257,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Efficiency.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Efficiency.full.png"
 	        }
 	    },
 	    {
@@ -266,7 +266,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Finality.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Finality.full.png"
 	        }
 	    },
 	    {
@@ -275,7 +275,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of History.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of History.full.png"
 	        }
 	    },
 	    {
@@ -284,7 +284,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Serenity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Serenity.full.png"
 	        }
 	    },
 	    {
@@ -293,7 +293,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Swamp Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Tenacity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Tenacity.full.png"
 	        }
 	    },
 	    {
@@ -302,7 +302,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrossroads of Unity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crossroads of Unity.full.png"
 	        }
 	    },
 	    {
@@ -311,7 +311,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEphemeral Mire.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ephemeral Mire.full.png"
 	        }
 	    },
 	    {
@@ -320,7 +320,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFlooded Strand.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Flooded Strand.full.png"
 	        }
 	    },
 	    {
@@ -329,7 +329,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesForest.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Forest.full.png"
 	        }
 	    },
 	    {
@@ -338,7 +338,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGates to the Underworld.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Gates to the Underworld.full.png"
 	        }
 	    },
 	    {
@@ -347,7 +347,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Island Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGeyser Fields.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Geyser Fields.full.png"
 	        }
 	    },
 	    {
@@ -356,7 +356,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHermit's River.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hermit's River.full.png"
 	        }
 	    },
 	    {
@@ -365,7 +365,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHundred-Handed Pillars.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hundred-Handed Pillars.full.png"
 	        }
 	    },
 	    {
@@ -374,7 +374,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesIsland.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Island.full.png"
 	        }
 	    },
 	    {
@@ -383,7 +383,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMarsh Flats.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Marsh Flats.full.png"
 	        }
 	    },
 	    {
@@ -392,7 +392,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMiasmic Cove.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Miasmic Cove.full.png"
 	        }
 	    },
 	    {
@@ -401,7 +401,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMisty Rainforest.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Misty Rainforest.full.png"
 	        }
 	    },
 	    {
@@ -410,7 +410,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Mountain ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMountain.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mountain.full.png"
 	        }
 	    },
 	    {
@@ -419,7 +419,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNessian Woods.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nessian Woods.full.png"
 	        }
 	    },
 	    {
@@ -428,7 +428,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNimbus of Thought.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nimbus of Thought.full.png"
 	        }
 	    },
 	    {
@@ -437,7 +437,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPlains.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Plains.full.png"
 	        }
 	    },
 	    {
@@ -446,7 +446,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPolluted Delta.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Polluted Delta.full.png"
 	        }
 	    },
 	    {
@@ -455,7 +455,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesScalding Tarn.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Scalding Tarn.full.png"
 	        }
 	    },
 	    {
@@ -464,7 +464,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesShell Cove.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Shell Cove.full.png"
 	        }
 	    },
 	    {
@@ -473,7 +473,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Plains Island ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesShimmering Beach.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Shimmering Beach.full.png"
 	        }
 	    },
 	    {
@@ -482,7 +482,7 @@
 	        "mana_cost": "",
 	        "type": "Basic Land — Swamp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSwamp.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Swamp.full.png"
 	        }
 	    },
 	    {
@@ -491,7 +491,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTitan's Stairs.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Titan's Stairs.full.png"
 	        }
 	    },
 	    {
@@ -500,7 +500,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Forest Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTranquil Heath.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tranquil Heath.full.png"
 	        }
 	    },
 	    {
@@ -509,7 +509,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Plains ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesUnrivaled Peak.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Unrivaled Peak.full.png"
 	        }
 	    },
 	    {
@@ -518,7 +518,7 @@
 	        "mana_cost": "",
 	        "type": "Land — Mountain Forest ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVerdant Canyon.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Verdant Canyon.full.png"
 	        }
 	    },
 	    {
@@ -527,7 +527,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVerdant Catacombs.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Verdant Catacombs.full.png"
 	        }
 	    },
 	    {
@@ -536,7 +536,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrnate Temple.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ornate Temple.full.png"
 	        }
 	    },
 	    {
@@ -545,7 +545,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrnate Seafloor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ornate Seafloor.full.png"
 	        }
 	    },
 	    {
@@ -554,7 +554,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrnate Grove.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ornate Grove.full.png"
 	        }
 	    },
 	    {
@@ -563,7 +563,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrnate Basilica.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ornate Basilica.full.png"
 	        }
 	    },
 	    {
@@ -572,7 +572,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrnate Sanctuary.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ornate Sanctuary.full.png"
 	        }
 	    },
 	    {
@@ -581,7 +581,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWayfarer's Shrine.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Wayfarer's Shrine.full.png"
 	        }
 	    },
 	    {
@@ -590,7 +590,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWindswept Heath.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Windswept Heath.full.png"
 	        }
 	    },
 	    {
@@ -599,7 +599,7 @@
 	        "mana_cost": "",
 	        "type": "Land",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWooded Foothills.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Wooded Foothills.full.png"
 	        }
 	    },
 	    {
@@ -608,7 +608,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Phyrexian Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFlayer of the Fair Basilica.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Flayer of the Fair Basilica.full.png"
 	        }
 	    },
 	    {
@@ -617,7 +617,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSpeaker of the Everwinter.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Speaker of the Everwinter.full.png"
 	        }
 	    },
 	    {
@@ -626,7 +626,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Cleric Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWhitaker Paladin.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Whitaker Paladin.full.png"
 	        }
 	    },
 	    {
@@ -635,7 +635,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTeambuilding Exercise.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Teambuilding Exercise.full.png"
 	        }
 	    },
 	    {
@@ -644,7 +644,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Orc Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCleanser of the Blessed Legacy.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Cleanser of the Blessed Legacy.full.png"
 	        }
 	    },
 	    {
@@ -653,7 +653,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAgnomakhos's Legionnaire.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Agnomakhos's Legionnaire.full.png"
 	        }
 	    },
 	    {
@@ -662,7 +662,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMaiden of Dawn.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Maiden of Dawn.full.png"
 	        }
 	    },
 	    {
@@ -671,7 +671,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Ogre Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesResolute Bugbear.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Resolute Bugbear.full.png"
 	        }
 	    },
 	    {
@@ -680,7 +680,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Construct Fox Actor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesIvory Curtain Regular.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ivory Curtain Regular.full.png"
 	        }
 	    },
 	    {
@@ -689,16 +689,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Kithkin Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTerrel Messenger.png"
-	        }
-	    },
-	    {
-	        "name": "Abbatar, the Whole of Unity",
-	        "rarity": "mythic",
-	        "mana_cost": "{3}{W}{W}",
-	        "type": "Legendary Creature — Elder Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAbbatar, the Whole of Unity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Terrel Messenger.full.png"
 	        }
 	    },
 	    {
@@ -707,7 +698,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSilence at Noon.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Silence at Noon.full.png"
 	        }
 	    },
 	    {
@@ -716,7 +707,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOn the Quest for Friendship.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/On the Quest for Friendship.full.png"
 	        }
 	    },
 	    {
@@ -725,7 +716,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAlamazzar's Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Alamazzar's Command.full.png"
 	        }
 	    },
 	    {
@@ -734,7 +725,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDecree of the King.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Decree of the King.full.png"
 	        }
 	    },
 	    {
@@ -743,7 +734,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPurge Maliciousness.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Purge Maliciousness.full.png"
 	        }
 	    },
 	    {
@@ -752,7 +743,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesReforge Resolve.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Reforge Resolve.full.png"
 	        }
 	    },
 	    {
@@ -761,7 +752,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBenumb.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Benumb.full.png"
 	        }
 	    },
 	    {
@@ -770,7 +761,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEternal Embrace.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Eternal Embrace.full.png"
 	        }
 	    },
 	    {
@@ -779,7 +770,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTsunayoshi's Valor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tsunayoshi's Valor.full.png"
 	        }
 	    },
 	    {
@@ -788,7 +779,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOmen of Passage.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Omen of Passage.full.png"
 	        }
 	    },
 	    {
@@ -797,7 +788,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEviction.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Eviction.full.png"
 	        }
 	    },
 	    {
@@ -806,7 +797,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesInnocence Denied.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Innocence Denied.full.png"
 	        }
 	    },
 	    {
@@ -815,7 +806,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment — Shard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBind to the Vessel.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bind to the Vessel.full.png"
 	        }
 	    },
 	    {
@@ -824,7 +815,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBirth of the Praetor's Voice.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Birth of the Praetor's Voice.full.png"
 	        }
 	    },
 	    {
@@ -833,7 +824,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Dog Detective ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRadio Jockey.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Radio Jockey.full.png"
 	        }
 	    },
 	    {
@@ -842,7 +833,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Harpy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHarpy Fledgling.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Harpy Fledgling.full.png"
 	        }
 	    },
 	    {
@@ -851,7 +842,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Creature — Faerie Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWintertouched Faerie.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Wintertouched Faerie.full.png"
 	        }
 	    },
 	    {
@@ -860,7 +851,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesJahan's Disdain.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Jahan's Disdain.full.png"
 	        }
 	    },
 	    {
@@ -869,7 +860,7 @@
 	        "mana_cost": "{4}{U}{U}",
 	        "type": "Creature — Giant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTitan of Surtland.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Titan of Surtland.full.png"
 	        }
 	    },
 	    {
@@ -878,7 +869,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAchim's Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Achim's Command.full.png"
 	        }
 	    },
 	    {
@@ -887,7 +878,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesInduce with Wings.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Induce with Wings.full.png"
 	        }
 	    },
 	    {
@@ -896,7 +887,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesStargazing.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Stargazing.full.png"
 	        }
 	    },
 	    {
@@ -905,7 +896,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRemoving the Mask.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Removing the Mask.full.png"
 	        }
 	    },
 	    {
@@ -914,7 +905,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHamper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hamper.full.png"
 	        }
 	    },
 	    {
@@ -923,7 +914,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOtherworldly Denial.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Otherworldly Denial.full.png"
 	        }
 	    },
 	    {
@@ -932,7 +923,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOmen of Heroes.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Omen of Heroes.full.png"
 	        }
 	    },
 	    {
@@ -941,7 +932,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOpulent Mindcage.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Opulent Mindcage.full.png"
 	        }
 	    },
 	    {
@@ -950,7 +941,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMuse Upon Eternity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Muse Upon Eternity.full.png"
 	        }
 	    },
 	    {
@@ -959,7 +950,7 @@
 	        "mana_cost": "{5}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThought Vase.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Thought Vase.full.png"
 	        }
 	    },
 	    {
@@ -968,7 +959,7 @@
 	        "mana_cost": "{X}{U}{U}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGlimpse of Opulent's Eternity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Glimpse of Opulent's Eternity.full.png"
 	        }
 	    },
 	    {
@@ -977,7 +968,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSave Face.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Save Face.full.png"
 	        }
 	    },
 	    {
@@ -986,7 +977,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFoil Frailty.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Foil Frailty.full.png"
 	        }
 	    },
 	    {
@@ -995,7 +986,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFloat into the Page.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Float into the Page.full.png"
 	        }
 	    },
 	    {
@@ -1004,7 +995,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesInspect the Rubstones.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Inspect the Rubstones.full.png"
 	        }
 	    },
 	    {
@@ -1013,7 +1004,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTurn to Knowledge.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Turn to Knowledge.full.png"
 	        }
 	    },
 	    {
@@ -1022,7 +1013,7 @@
 	        "mana_cost": "{X}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPaomar Prerogative.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Paomar Prerogative.full.png"
 	        }
 	    },
 	    {
@@ -1031,7 +1022,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesListlessness.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Listlessness.full.png"
 	        }
 	    },
 	    {
@@ -1040,7 +1031,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBeget Knowledge From Aether.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Beget Knowledge From Aether.full.png"
 	        }
 	    },
 	    {
@@ -1049,7 +1040,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesScrutinize.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Scrutinize.full.png"
 	        }
 	    },
 	    {
@@ -1058,7 +1049,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAnimate Prop.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Animate Prop.full.png"
 	        }
 	    },
 	    {
@@ -1067,7 +1058,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Bird Soldier Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAldegar's Trailblazer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Aldegar's Trailblazer.full.png"
 	        }
 	    },
 	    {
@@ -1076,7 +1067,7 @@
 	        "mana_cost": "{3}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFaulty Omenpath.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Faulty Omenpath.full.png"
 	        }
 	    },
 	    {
@@ -1085,7 +1076,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCommit to Text.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Commit to Text.full.png"
 	        }
 	    },
 	    {
@@ -1094,7 +1085,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesContemplate.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Contemplate.full.png"
 	        }
 	    },
 	    {
@@ -1103,7 +1094,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTamper with the Timeline.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tamper with the Timeline.full.png"
 	        }
 	    },
 	    {
@@ -1112,7 +1103,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMoonstone of Qabel.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Moonstone of Qabel.full.png"
 	        }
 	    },
 	    {
@@ -1121,7 +1112,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCall of Marit Lage.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Call of Marit Lage.full.png"
 	        }
 	    },
 	    {
@@ -1130,7 +1121,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFor Marva.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/For Marva.full.png"
 	        }
 	    },
 	    {
@@ -1139,7 +1130,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNonstop Shop.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nonstop Shop.full.png"
 	        }
 	    },
 	    {
@@ -1148,7 +1139,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Vampire Citizen ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGutterpunk.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Gutterpunk.full.png"
 	        }
 	    },
 	    {
@@ -1157,7 +1148,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Dog Zombie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHound of Tizerus.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hound of Tizerus.full.png"
 	        }
 	    },
 	    {
@@ -1166,7 +1157,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Cat Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVile Bakeneko.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vile Bakeneko.full.png"
 	        }
 	    },
 	    {
@@ -1175,7 +1166,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Ooze ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEvergrowing Ichor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Evergrowing Ichor.full.png"
 	        }
 	    },
 	    {
@@ -1184,7 +1175,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Orc Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLeymsel Accoylte.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Leymsel Accoylte.full.png"
 	        }
 	    },
 	    {
@@ -1193,7 +1184,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMaiden of Dusk.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Maiden of Dusk.full.png"
 	        }
 	    },
 	    {
@@ -1202,7 +1193,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSage of Growth and Decay.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Sage of Growth and Decay.full.png"
 	        }
 	    },
 	    {
@@ -1211,7 +1202,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Creature — Satyr Bard Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTreacherous Orator.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Treacherous Orator.full.png"
 	        }
 	    },
 	    {
@@ -1220,7 +1211,7 @@
 	        "mana_cost": "{1}{B}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCiar's Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ciar's Command.full.png"
 	        }
 	    },
 	    {
@@ -1229,7 +1220,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSpartoi Rising.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Spartoi Rising.full.png"
 	        }
 	    },
 	    {
@@ -1238,7 +1229,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHayat's Plague.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hayat's Plague.full.png"
 	        }
 	    },
 	    {
@@ -1247,7 +1238,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesToxic Spores.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Toxic Spores.full.png"
 	        }
 	    },
 	    {
@@ -1256,7 +1247,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSplendid Massacre.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Splendid Massacre.full.png"
 	        }
 	    },
 	    {
@@ -1265,7 +1256,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOmen of Affliction.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Omen of Affliction.full.png"
 	        }
 	    },
 	    {
@@ -1274,7 +1265,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVanquish the Oppressor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vanquish the Oppressor.full.png"
 	        }
 	    },
 	    {
@@ -1283,7 +1274,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSiphon Soulpower.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Siphon Soulpower.full.png"
 	        }
 	    },
 	    {
@@ -1292,7 +1283,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVitality Wellspring.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vitality Wellspring.full.png"
 	        }
 	    },
 	    {
@@ -1301,7 +1292,7 @@
 	        "mana_cost": "{B}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDevour.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Devour.full.png"
 	        }
 	    },
 	    {
@@ -1310,7 +1301,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDrown Hope.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Drown Hope.full.png"
 	        }
 	    },
 	    {
@@ -1319,7 +1310,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFind Fault in the Perfect.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Find Fault in the Perfect.full.png"
 	        }
 	    },
 	    {
@@ -1328,7 +1319,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesReconstruct from Scrap.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Reconstruct from Scrap.full.png"
 	        }
 	    },
 	    {
@@ -1337,7 +1328,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEmpty Rehearsal.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Empty Rehearsal.full.png"
 	        }
 	    },
 	    {
@@ -1346,7 +1337,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMurder of the Mind.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Murder of the Mind.full.png"
 	        }
 	    },
 	    {
@@ -1355,7 +1346,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Dead Jarl's Chant.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Dead Jarl's Chant.full.png"
 	        }
 	    },
 	    {
@@ -1364,7 +1355,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Decline of Dr. Vaughn.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Decline of Dr. Vaughn.full.png"
 	        }
 	    },
 	    {
@@ -1373,7 +1364,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Elemental Imp ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVizier's Alarm.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vizier's Alarm.full.png"
 	        }
 	    },
 	    {
@@ -1382,7 +1373,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHook Executioner.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hook Executioner.full.png"
 	        }
 	    },
 	    {
@@ -1391,16 +1382,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHarvey's Outrider.png"
-	        }
-	    },
-	    {
-	        "name": "Zim-Shiggur, Threads of Life",
-	        "rarity": "mythic",
-	        "mana_cost": "{3}{R}{R}",
-	        "type": "Legendary Creature — Elder Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesZim-Shiggur, Threads of Life.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Harvey's Outrider.full.png"
 	        }
 	    },
 	    {
@@ -1409,7 +1391,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Monkey Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFinicky Connoisseur.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Finicky Connoisseur.full.png"
 	        }
 	    },
 	    {
@@ -1418,7 +1400,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBellowing Commands.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bellowing Commands.full.png"
 	        }
 	    },
 	    {
@@ -1427,7 +1409,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCidraeth Bloodchanter.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Cidraeth Bloodchanter.full.png"
 	        }
 	    },
 	    {
@@ -1436,7 +1418,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Elemental Wolf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWraithslayer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Wraithslayer.full.png"
 	        }
 	    },
 	    {
@@ -1445,7 +1427,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesScorned, but Not Broken.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Scorned, but Not Broken.full.png"
 	        }
 	    },
 	    {
@@ -1454,7 +1436,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Azra Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesServant of Shinobu.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Servant of Shinobu.full.png"
 	        }
 	    },
 	    {
@@ -1463,7 +1445,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNovice Flamesage.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Novice Flamesage.full.png"
 	        }
 	    },
 	    {
@@ -1472,7 +1454,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesArena Conqueror.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Arena Conqueror.full.png"
 	        }
 	    },
 	    {
@@ -1481,7 +1463,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Elf Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEmberwood Balladeer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Emberwood Balladeer.full.png"
 	        }
 	    },
 	    {
@@ -1490,7 +1472,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Dragon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLuminary Dragon.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Luminary Dragon.full.png"
 	        }
 	    },
 	    {
@@ -1499,7 +1481,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Azra Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesUnited Frontliner.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/United Frontliner.full.png"
 	        }
 	    },
 	    {
@@ -1508,7 +1490,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesStudent of the Evoker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Student of the Evoker.full.png"
 	        }
 	    },
 	    {
@@ -1517,7 +1499,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesConsult.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Consult.full.png"
 	        }
 	    },
 	    {
@@ -1526,7 +1508,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRefine the Past.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Refine the Past.full.png"
 	        }
 	    },
 	    {
@@ -1535,7 +1517,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHawk Shot.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hawk Shot.full.png"
 	        }
 	    },
 	    {
@@ -1544,7 +1526,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSpread the Calling Card.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Spread the Calling Card.full.png"
 	        }
 	    },
 	    {
@@ -1553,7 +1535,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBastazim's Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bastazim's Command.full.png"
 	        }
 	    },
 	    {
@@ -1562,7 +1544,7 @@
 	        "mana_cost": "{X}{R}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDevastating Blast.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Devastating Blast.full.png"
 	        }
 	    },
 	    {
@@ -1571,7 +1553,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAcidic Eruption.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Acidic Eruption.full.png"
 	        }
 	    },
 	    {
@@ -1580,7 +1562,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesImpending Peril.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Impending Peril.full.png"
 	        }
 	    },
 	    {
@@ -1589,16 +1571,16 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBurning Echoes.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Burning Echoes.full.png"
 	        }
 	    },
 	    {
-	        "name": "Volt Charge",
+	        "name": "Volt Surge",
 	        "rarity": "mythic",
-	        "mana_cost": "{2}{R}",
+	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVolt Charge.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Volt Surge.full.png"
 	        }
 	    },
 	    {
@@ -1607,7 +1589,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFerocious Flame.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ferocious Flame.full.png"
 	        }
 	    },
 	    {
@@ -1616,7 +1598,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Artifact Creature — Gnome Dog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSentinel Steelhound.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Sentinel Steelhound.full.png"
 	        }
 	    },
 	    {
@@ -1625,7 +1607,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEndless Iteration.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Endless Iteration.full.png"
 	        }
 	    },
 	    {
@@ -1634,7 +1616,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Fungus Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesElder of Thirty Thousand Spores.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Elder of Thirty Thousand Spores.full.png"
 	        }
 	    },
 	    {
@@ -1643,7 +1625,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Elf Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMessenger of the Aberrant.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Messenger of the Aberrant.full.png"
 	        }
 	    },
 	    {
@@ -1652,7 +1634,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Orc Archer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrcish Sentinel.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Orcish Sentinel.full.png"
 	        }
 	    },
 	    {
@@ -1661,7 +1643,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Phyrexian Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTyrranax Shepherd.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tyrranax Shepherd.full.png"
 	        }
 	    },
 	    {
@@ -1670,7 +1652,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment Creature — Nymph Shard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesUtopia Pair.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Utopia Pair.full.png"
 	        }
 	    },
 	    {
@@ -1679,7 +1661,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Elf Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFyndhorn Shaman.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fyndhorn Shaman.full.png"
 	        }
 	    },
 	    {
@@ -1688,7 +1670,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Assault on Sandrock.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Assault on Sandrock.full.png"
 	        }
 	    },
 	    {
@@ -1697,7 +1679,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Troll Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTimber Slayer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Timber Slayer.full.png"
 	        }
 	    },
 	    {
@@ -1706,7 +1688,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCollect the Lost Myths.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Collect the Lost Myths.full.png"
 	        }
 	    },
 	    {
@@ -1715,7 +1697,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRotating Cast.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Rotating Cast.full.png"
 	        }
 	    },
 	    {
@@ -1724,7 +1706,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOmen of Harvests.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Omen of Harvests.full.png"
 	        }
 	    },
 	    {
@@ -1733,7 +1715,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesExplore the Unknown.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Explore the Unknown.full.png"
 	        }
 	    },
 	    {
@@ -1742,7 +1724,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Aura ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesResolve.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Resolve.full.png"
 	        }
 	    },
 	    {
@@ -1751,7 +1733,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAscend to the Omenpath.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ascend to the Omenpath.full.png"
 	        }
 	    },
 	    {
@@ -1760,7 +1742,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesJerrold's Truest Form.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Jerrold's Truest Form.full.png"
 	        }
 	    },
 	    {
@@ -1769,7 +1751,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDance of the Ending Sun.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Dance of the Ending Sun.full.png"
 	        }
 	    },
 	    {
@@ -1778,7 +1760,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAs Fact Becomes Fable.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/As Fact Becomes Fable.full.png"
 	        }
 	    },
 	    {
@@ -1787,7 +1769,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesErwan's Command.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Erwan's Command.full.png"
 	        }
 	    },
 	    {
@@ -1796,7 +1778,7 @@
 	        "mana_cost": "{0}",
 	        "type": "Artifact Creature — Construct Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKindly Observer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Kindly Observer.full.png"
 	        }
 	    },
 	    {
@@ -1805,7 +1787,7 @@
 	        "mana_cost": "{7}",
 	        "type": "Artifact Creature — Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSimulated Hope.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Simulated Hope.full.png"
 	        }
 	    },
 	    {
@@ -1814,7 +1796,7 @@
 	        "mana_cost": "{X}{X}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAttentive Automaton.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Attentive Automaton.full.png"
 	        }
 	    },
 	    {
@@ -1823,7 +1805,7 @@
 	        "mana_cost": "{8}",
 	        "type": "Artifact Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBastion of Stars.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bastion of Stars.full.png"
 	        }
 	    },
 	    {
@@ -1832,16 +1814,16 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Myr ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMyr Retriever.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Myr Retriever.full.png"
 	        }
 	    },
 	    {
 	        "name": "Memnarch's Eyes",
 	        "rarity": "mythic",
-	        "mana_cost": "{3}",
+	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Myr ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMemnarch's Eyes.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Memnarch's Eyes.full.png"
 	        }
 	    },
 	    {
@@ -1850,7 +1832,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesStructural Plans.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Structural Plans.full.png"
 	        }
 	    },
 	    {
@@ -1859,7 +1841,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRelic of Lost Love.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Relic of Lost Love.full.png"
 	        }
 	    },
 	    {
@@ -1868,7 +1850,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesIron-Draining Axe.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Iron-Draining Axe.full.png"
 	        }
 	    },
 	    {
@@ -1877,7 +1859,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Clue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMysterious Vial.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mysterious Vial.full.png"
 	        }
 	    },
 	    {
@@ -1886,7 +1868,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Vehicle ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGraven Boat.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Graven Boat.full.png"
 	        }
 	    },
 	    {
@@ -1895,7 +1877,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAdorned Blade.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Adorned Blade.full.png"
 	        }
 	    },
 	    {
@@ -1904,7 +1886,7 @@
 	        "mana_cost": "{0}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMox Spinel.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mox Spinel.full.png"
 	        }
 	    },
 	    {
@@ -1913,7 +1895,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLocked Aetherstone.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Locked Aetherstone.full.png"
 	        }
 	    },
 	    {
@@ -1922,7 +1904,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFans of Ryunosuke.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fans of Ryunosuke.full.png"
 	        }
 	    },
 	    {
@@ -1931,7 +1913,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesForge of Inner Strength.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Forge of Inner Strength.full.png"
 	        }
 	    },
 	    {
@@ -1940,7 +1922,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMonument to the Forgotten Hero.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Monument to the Forgotten Hero.full.png"
 	        }
 	    },
 	    {
@@ -1949,7 +1931,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Clue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMysterious Cauldron.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mysterious Cauldron.full.png"
 	        }
 	    },
 	    {
@@ -1958,7 +1940,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBottled Potential.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bottled Potential.full.png"
 	        }
 	    },
 	    {
@@ -1967,7 +1949,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGrasping Pillars.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Grasping Pillars.full.png"
 	        }
 	    },
 	    {
@@ -1976,7 +1958,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Clue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMysterious Milestone.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mysterious Milestone.full.png"
 	        }
 	    },
 	    {
@@ -1985,7 +1967,7 @@
 	        "mana_cost": "{1}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDrained Essenceforge.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Drained Essenceforge.full.png"
 	        }
 	    },
 	    {
@@ -1994,7 +1976,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTome of Silent Mouths.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tome of Silent Mouths.full.png"
 	        }
 	    },
 	    {
@@ -2003,7 +1985,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Clue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMysterious Book.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mysterious Book.full.png"
 	        }
 	    },
 	    {
@@ -2012,7 +1994,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVessel of the Empty Mind.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vessel of the Empty Mind.full.png"
 	        }
 	    },
 	    {
@@ -2021,7 +2003,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesReconstruction Module.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Reconstruction Module.full.png"
 	        }
 	    },
 	    {
@@ -2030,7 +2012,7 @@
 	        "mana_cost": "{2}",
 	        "type": "Artifact — Clue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMysterious Jewel.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mysterious Jewel.full.png"
 	        }
 	    },
 	    {
@@ -2039,7 +2021,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Orc Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKeeper of the Divine Tablet.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Keeper of the Divine Tablet.full.png"
 	        }
 	    },
 	    {
@@ -2048,7 +2030,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAnguish.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Anguish.full.png"
 	        }
 	    },
 	    {
@@ -2057,7 +2039,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Phyrexian Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEvermarching Legionnaire.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Evermarching Legionnaire.full.png"
 	        }
 	    },
 	    {
@@ -2066,7 +2048,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Elf Crab Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSimic Biocaster.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Simic Biocaster.full.png"
 	        }
 	    },
 	    {
@@ -2075,7 +2057,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOde of Compassion.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ode of Compassion.full.png"
 	        }
 	    },
 	    {
@@ -2084,7 +2066,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHeart's Betrayal.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Heart's Betrayal.full.png"
 	        }
 	    },
 	    {
@@ -2093,7 +2075,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWitherblade Strike.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Witherblade Strike.full.png"
 	        }
 	    },
 	    {
@@ -2102,7 +2084,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDeadly Interrogation.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Deadly Interrogation.full.png"
 	        }
 	    },
 	    {
@@ -2111,7 +2093,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRetribution.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Retribution.full.png"
 	        }
 	    },
 	    {
@@ -2120,7 +2102,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Elf Soldier Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWarkrei Saboteuse.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Warkrei Saboteuse.full.png"
 	        }
 	    },
 	    {
@@ -2129,7 +2111,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCrimson Mist Ambush.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Crimson Mist Ambush.full.png"
 	        }
 	    },
 	    {
@@ -2138,7 +2120,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTravelcart Caretaker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Travelcart Caretaker.full.png"
 	        }
 	    },
 	    {
@@ -2147,7 +2129,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPeyma, Kahroba Poet.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Peyma, Kahroba Poet.full.png"
 	        }
 	    },
 	    {
@@ -2156,7 +2138,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Bird Archer Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNaktamun Trapper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Naktamun Trapper.full.png"
 	        }
 	    },
 	    {
@@ -2165,7 +2147,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Farmer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRustic Harvester.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Rustic Harvester.full.png"
 	        }
 	    },
 	    {
@@ -2174,7 +2156,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAbolish the Mighty.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Abolish the Mighty.full.png"
 	        }
 	    },
 	    {
@@ -2183,7 +2165,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAlamazzar's Adoration.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Alamazzar's Adoration.full.png"
 	        }
 	    },
 	    {
@@ -2192,7 +2174,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Orb ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrb of Uneasy Serenity.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Orb of Uneasy Serenity.full.png"
 	        }
 	    },
 	    {
@@ -2201,7 +2183,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSoli Commando.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Soli Commando.full.png"
 	        }
 	    },
 	    {
@@ -2210,7 +2192,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Faerie Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTooth Snatcher.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tooth Snatcher.full.png"
 	        }
 	    },
 	    {
@@ -2219,7 +2201,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Elemental Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKeeper Glamourbinder.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Keeper Glamourbinder.full.png"
 	        }
 	    },
 	    {
@@ -2228,7 +2210,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Faerie Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDust Scatterer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Dust Scatterer.full.png"
 	        }
 	    },
 	    {
@@ -2237,7 +2219,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFabricator of Relics.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fabricator of Relics.full.png"
 	        }
 	    },
 	    {
@@ -2246,7 +2228,7 @@
 	        "mana_cost": "{1}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSeeker of Buried Fortunes.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Seeker of Buried Fortunes.full.png"
 	        }
 	    },
 	    {
@@ -2255,7 +2237,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSelezzar's Treasurehunter.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Selezzar's Treasurehunter.full.png"
 	        }
 	    },
 	    {
@@ -2264,7 +2246,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Azra Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMalevolent Thug.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Malevolent Thug.full.png"
 	        }
 	    },
 	    {
@@ -2273,7 +2255,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Shade ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesProwling Darkness.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Prowling Darkness.full.png"
 	        }
 	    },
 	    {
@@ -2282,7 +2264,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Zombie Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPriest of the Empty-Vessel.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Priest of the Empty-Vessel.full.png"
 	        }
 	    },
 	    {
@@ -2291,7 +2273,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Gorgon Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBackground Replacer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Background Replacer.full.png"
 	        }
 	    },
 	    {
@@ -2300,7 +2282,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Human Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesInept Noble.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Inept Noble.full.png"
 	        }
 	    },
 	    {
@@ -2309,7 +2291,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Azra Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVessel of the All-Blood.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vessel of the All-Blood.full.png"
 	        }
 	    },
 	    {
@@ -2318,7 +2300,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment Creature — Demigod ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesErebos's Lifecaller.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Erebos's Lifecaller.full.png"
 	        }
 	    },
 	    {
@@ -2327,7 +2309,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Wolf Soldier Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMargarete's Honor Guard.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Margarete's Honor Guard.full.png"
 	        }
 	    },
 	    {
@@ -2336,7 +2318,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHubris.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hubris.full.png"
 	        }
 	    },
 	    {
@@ -2345,7 +2327,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Azra Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFanatic of Andazir.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fanatic of Andazir.full.png"
 	        }
 	    },
 	    {
@@ -2354,7 +2336,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Creature — Skeleton Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSeco Husk.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Seco Husk.full.png"
 	        }
 	    },
 	    {
@@ -2363,7 +2345,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKoios's Student.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Koios's Student.full.png"
 	        }
 	    },
 	    {
@@ -2372,7 +2354,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSlizt Clan Ambusher.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Slizt Clan Ambusher.full.png"
 	        }
 	    },
 	    {
@@ -2381,7 +2363,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Artifact Creature — Construct Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesScrappy Sidekick.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Scrappy Sidekick.full.png"
 	        }
 	    },
 	    {
@@ -2390,7 +2372,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Legendary Creature — Horror Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesResentment.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Resentment.full.png"
 	        }
 	    },
 	    {
@@ -2399,7 +2381,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Dwarf Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAxguard Weaponsmith.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Axguard Weaponsmith.full.png"
 	        }
 	    },
 	    {
@@ -2408,7 +2390,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPrismari Showcaster.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Prismari Showcaster.full.png"
 	        }
 	    },
 	    {
@@ -2417,7 +2399,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSoulbinder Occultist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Soulbinder Occultist.full.png"
 	        }
 	    },
 	    {
@@ -2426,7 +2408,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Elf Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesElegant Ritualist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Elegant Ritualist.full.png"
 	        }
 	    },
 	    {
@@ -2435,7 +2417,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Elemental Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDevourerer of Cosmos.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Devourerer of Cosmos.full.png"
 	        }
 	    },
 	    {
@@ -2444,7 +2426,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Dryad Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGardener of the Endless Grove.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Gardener of the Endless Grove.full.png"
 	        }
 	    },
 	    {
@@ -2453,7 +2435,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Hydra ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSparkfeeder.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Sparkfeeder.full.png"
 	        }
 	    },
 	    {
@@ -2462,7 +2444,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesQuandrix Envisionist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Quandrix Envisionist.full.png"
 	        }
 	    },
 	    {
@@ -2471,7 +2453,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Azra Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSapner Instructor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Sapner Instructor.full.png"
 	        }
 	    },
 	    {
@@ -2480,7 +2462,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Azra Cleric Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEvermoving Preacher.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Evermoving Preacher.full.png"
 	        }
 	    },
 	    {
@@ -2489,7 +2471,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLlanowar Advocate.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Llanowar Advocate.full.png"
 	        }
 	    },
 	    {
@@ -2498,7 +2480,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Dryad ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSkittish Sycamore.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Skittish Sycamore.full.png"
 	        }
 	    },
 	    {
@@ -2507,7 +2489,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Human Samurai Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesIronskin Sensei.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ironskin Sensei.full.png"
 	        }
 	    },
 	    {
@@ -2516,7 +2498,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Elf Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLlanowar Raiding Party.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Llanowar Raiding Party.full.png"
 	        }
 	    },
 	    {
@@ -2525,7 +2507,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMilestone of the Grove.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Milestone of the Grove.full.png"
 	        }
 	    },
 	    {
@@ -2534,7 +2516,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDemands of the Just Ruler.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Demands of the Just Ruler.full.png"
 	        }
 	    },
 	    {
@@ -2543,7 +2525,7 @@
 	        "mana_cost": "{2}{W}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRyunosuke's Contact.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ryunosuke's Contact.full.png"
 	        }
 	    },
 	    {
@@ -2552,7 +2534,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGruul Trance.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Gruul Trance.full.png"
 	        }
 	    },
 	    {
@@ -2561,7 +2543,7 @@
 	        "mana_cost": "{B}{G}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Lotus Petals Fall.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Lotus Petals Fall.full.png"
 	        }
 	    },
 	    {
@@ -2570,7 +2552,7 @@
 	        "mana_cost": "{2}{R}{W}",
 	        "type": "Creature — Cat Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFrostfire Stalker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Frostfire Stalker.full.png"
 	        }
 	    },
 	    {
@@ -2579,7 +2561,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Human Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGhaqdan Priestess.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ghaqdan Priestess.full.png"
 	        }
 	    },
 	    {
@@ -2588,7 +2570,7 @@
 	        "mana_cost": "{U}{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesShattered Dealings.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Shattered Dealings.full.png"
 	        }
 	    },
 	    {
@@ -2597,7 +2579,7 @@
 	        "mana_cost": "{2}{B}{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRot to Life.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Rot to Life.full.png"
 	        }
 	    },
 	    {
@@ -2606,7 +2588,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Creature — Elf Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAmbitious Trooper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ambitious Trooper.full.png"
 	        }
 	    },
 	    {
@@ -2615,7 +2597,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Creature — Inkling Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCandid Portraitist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Candid Portraitist.full.png"
 	        }
 	    },
 	    {
@@ -2624,7 +2606,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Minotaur Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOracle of Keranos.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Oracle of Keranos.full.png"
 	        }
 	    },
 	    {
@@ -2633,7 +2615,7 @@
 	        "mana_cost": "{G}{W}",
 	        "type": "Creature — Satyr Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWayfarer Satyr.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Wayfarer Satyr.full.png"
 	        }
 	    },
 	    {
@@ -2642,7 +2624,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Legendary Planeswalker — Delroy ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDelroy.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Delroy.full.png"
 	        }
 	    },
 	    {
@@ -2651,7 +2633,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Legendary Planeswalker — Mireio ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMireio.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mireio.full.png"
 	        }
 	    },
 	    {
@@ -2660,7 +2642,7 @@
 	        "mana_cost": "{R}{W}",
 	        "type": "Legendary Planeswalker — Imani ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesImani.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Imani.full.png"
 	        }
 	    },
 	    {
@@ -2669,7 +2651,7 @@
 	        "mana_cost": "{W}{B}",
 	        "type": "Legendary Planeswalker — Kamden ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKamden.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Kamden.full.png"
 	        }
 	    },
 	    {
@@ -2678,7 +2660,7 @@
 	        "mana_cost": "{U}{U}",
 	        "type": "Legendary Planeswalker — Kir ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKir.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Kir.full.png"
 	        }
 	    },
 	    {
@@ -2687,7 +2669,7 @@
 	        "mana_cost": "{X}{G}{G}",
 	        "type": "Legendary Planeswalker — Milos ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMilos.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Milos.full.png"
 	        }
 	    },
 	    {
@@ -2696,7 +2678,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOmen of Destiny.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Omen of Destiny.full.png"
 	        }
 	    },
 	    {
@@ -2705,7 +2687,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Legendary Planeswalker — Paul ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPaul.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Paul.full.png"
 	        }
 	    },
 	    {
@@ -2714,7 +2696,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Cat Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRightful Kingsguard.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Rightful Kingsguard.full.png"
 	        }
 	    },
 	    {
@@ -2723,7 +2705,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Construct Actor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWell-Connected Lead.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Well-Connected Lead.full.png"
 	        }
 	    },
 	    {
@@ -2732,16 +2714,16 @@
 	        "mana_cost": "{W}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSurprise Maneuver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Surprise Maneuver.full.png"
 	        }
 	    },
 	    {
-	        "name": "Desiccated  Maidens",
+	        "name": "Desiccated Maidens",
 	        "rarity": "mythic",
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Zombie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDesiccated  Maidens.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Desiccated Maidens.full.png"
 	        }
 	    },
 	    {
@@ -2750,7 +2732,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Legendary Creature — Cat Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Just King.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Just King.full.png"
 	        }
 	    },
 	    {
@@ -2759,7 +2741,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Faerie ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesJoyous Dvorovoi.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Joyous Dvorovoi.full.png"
 	        }
 	    },
 	    {
@@ -2768,7 +2750,7 @@
 	        "mana_cost": "{W}{W}{W}",
 	        "type": "Creature — Construct Actor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesIvory Curtain Roleweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ivory Curtain Roleweaver.full.png"
 	        }
 	    },
 	    {
@@ -2777,7 +2759,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Zombie Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMehr's Frontliner.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mehr's Frontliner.full.png"
 	        }
 	    },
 	    {
@@ -2786,7 +2768,7 @@
 	        "mana_cost": "{2}{W}",
 	        "type": "Creature — Human Merchant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDunesea Guide.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Dunesea Guide.full.png"
 	        }
 	    },
 	    {
@@ -2795,7 +2777,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSlinky Mirrorkin.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Slinky Mirrorkin.full.png"
 	        }
 	    },
 	    {
@@ -2804,7 +2786,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Faerie Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGoldnapper Sprite.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Goldnapper Sprite.full.png"
 	        }
 	    },
 	    {
@@ -2813,7 +2795,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Merfolk Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNautopian Seashaper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nautopian Seashaper.full.png"
 	        }
 	    },
 	    {
@@ -2822,7 +2804,7 @@
 	        "mana_cost": "{U}{U}{U}",
 	        "type": "Creature — Goblin Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesJaegrin Woodweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Jaegrin Woodweaver.full.png"
 	        }
 	    },
 	    {
@@ -2831,7 +2813,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Creature — Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSpawn of Inadequacy.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Spawn of Inadequacy.full.png"
 	        }
 	    },
 	    {
@@ -2840,7 +2822,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Merchant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBizaare Vendor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bizaare Vendor.full.png"
 	        }
 	    },
 	    {
@@ -2849,7 +2831,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEvoker of Frost.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Evoker of Frost.full.png"
 	        }
 	    },
 	    {
@@ -2858,7 +2840,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Riddle Creature — Sphinx Incarnation ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Answer to No Question.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Answer to No Question.full.png"
 	        }
 	    },
 	    {
@@ -2867,7 +2849,7 @@
 	        "mana_cost": "{5}{B}{B}",
 	        "type": "Creature — Demon Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDevourer of Ink.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Devourer of Ink.full.png"
 	        }
 	    },
 	    {
@@ -2876,7 +2858,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Vampire Advisor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMoroii Cleaner.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Moroii Cleaner.full.png"
 	        }
 	    },
 	    {
@@ -2885,7 +2867,7 @@
 	        "mana_cost": "{B}{B}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOriq Soulweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Oriq Soulweaver.full.png"
 	        }
 	    },
 	    {
@@ -2894,7 +2876,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Horror Actor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesUnfinished Stand-In.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Unfinished Stand-In.full.png"
 	        }
 	    },
 	    {
@@ -2903,7 +2885,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Artifact Creature — Phyrexian Angel ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThrissik's Exarch.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Thrissik's Exarch.full.png"
 	        }
 	    },
 	    {
@@ -2912,7 +2894,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Zombie Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMausoleum Enshrouder.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mausoleum Enshrouder.full.png"
 	        }
 	    },
 	    {
@@ -2921,7 +2903,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Angel Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesReaper of Condemnation.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Reaper of Condemnation.full.png"
 	        }
 	    },
 	    {
@@ -2930,7 +2912,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Enchantment Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLifetide Manipulator.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Lifetide Manipulator.full.png"
 	        }
 	    },
 	    {
@@ -2939,7 +2921,7 @@
 	        "mana_cost": "{2}{B}",
 	        "type": "Creature — Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEnding's Wrangler.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ending's Wrangler.full.png"
 	        }
 	    },
 	    {
@@ -2948,7 +2930,7 @@
 	        "mana_cost": "{R}{R}{R}",
 	        "type": "Creature — Azra Bard Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHawker Passionweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hawker Passionweaver.full.png"
 	        }
 	    },
 	    {
@@ -2957,7 +2939,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesInnerflame Berserker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Innerflame Berserker.full.png"
 	        }
 	    },
 	    {
@@ -2966,7 +2948,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Legendary Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMahnaz of Moonlit Blades.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mahnaz of Moonlit Blades.full.png"
 	        }
 	    },
 	    {
@@ -2975,16 +2957,16 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Minotaur Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSkophos Gatekeeper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Skophos Gatekeeper.full.png"
 	        }
 	    },
 	    {
-	        "name": "Loyalist  of the Old Regime",
+	        "name": "Loyalist of the Old Regime",
 	        "rarity": "mythic",
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Jackal Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLoyalist  of the Old Regime.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Loyalist of the Old Regime.full.png"
 	        }
 	    },
 	    {
@@ -2993,7 +2975,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Creature — Human Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesConceited Coach.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Conceited Coach.full.png"
 	        }
 	    },
 	    {
@@ -3002,7 +2984,7 @@
 	        "mana_cost": "{1}{G}",
 	        "type": "Creature — Plant Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesInquisitive Gourdweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Inquisitive Gourdweaver.full.png"
 	        }
 	    },
 	    {
@@ -3011,7 +2993,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMinstrel of the Fantastical.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Minstrel of the Fantastical.full.png"
 	        }
 	    },
 	    {
@@ -3020,7 +3002,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Construct Actor ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVerdant Curtain Monologuer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Verdant Curtain Monologuer.full.png"
 	        }
 	    },
 	    {
@@ -3029,7 +3011,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Frog ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesIridescent Croaker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Iridescent Croaker.full.png"
 	        }
 	    },
 	    {
@@ -3038,7 +3020,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Elf Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesZealot of the Jaspera.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Zealot of the Jaspera.full.png"
 	        }
 	    },
 	    {
@@ -3047,7 +3029,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Cat Artist ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesStreet Cat Tagger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Street Cat Tagger.full.png"
 	        }
 	    },
 	    {
@@ -3056,7 +3038,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Satyr Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEmpath of Nature's Soul.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Empath of Nature's Soul.full.png"
 	        }
 	    },
 	    {
@@ -3065,7 +3047,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Elf Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPendelhaven Defender.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Pendelhaven Defender.full.png"
 	        }
 	    },
 	    {
@@ -3074,7 +3056,7 @@
 	        "mana_cost": "{G}{G}{G}",
 	        "type": "Creature — Satyr Soldier Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSkola Nyxweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Skola Nyxweaver.full.png"
 	        }
 	    },
 	    {
@@ -3083,7 +3065,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Plant Cat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCave of Many Teeth.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Cave of Many Teeth.full.png"
 	        }
 	    },
 	    {
@@ -3092,7 +3074,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFassahd Chanters.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fassahd Chanters.full.png"
 	        }
 	    },
 	    {
@@ -3101,7 +3083,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMitosis Splicer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Mitosis Splicer.full.png"
 	        }
 	    },
 	    {
@@ -3110,7 +3092,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Enchantment Creature — Knight ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPaladin of the Sacred Cape.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Paladin of the Sacred Cape.full.png"
 	        }
 	    },
 	    {
@@ -3119,7 +3101,7 @@
 	        "mana_cost": "{1}{R}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesStage the Scene.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Stage the Scene.full.png"
 	        }
 	    },
 	    {
@@ -3128,7 +3110,7 @@
 	        "mana_cost": "{U}{R}",
 	        "type": "Creature — Orc Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCurio Collector.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Curio Collector.full.png"
 	        }
 	    },
 	    {
@@ -3137,7 +3119,7 @@
 	        "mana_cost": "{2}{B}{R}",
 	        "type": "Creature — Demon Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNetherweave Harbinger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Netherweave Harbinger.full.png"
 	        }
 	    },
 	    {
@@ -3146,7 +3128,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Creature — Human Berserker ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEnvoy of the Realm Eater.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Envoy of the Realm Eater.full.png"
 	        }
 	    },
 	    {
@@ -3155,7 +3137,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNature's Gift.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nature's Gift.full.png"
 	        }
 	    },
 	    {
@@ -3164,7 +3146,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Artifact",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHadak's Remains.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hadak's Remains.full.png"
 	        }
 	    },
 	    {
@@ -3173,7 +3155,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Legendary Planeswalker — Achim ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAchim.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Achim.full.png"
 	        }
 	    },
 	    {
@@ -3182,7 +3164,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Legendary Planeswalker — Amaltheos ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAmaltheos, Endling.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Amaltheos, Endling.full.png"
 	        }
 	    },
 	    {
@@ -3191,7 +3173,7 @@
 	        "mana_cost": "{1}{W}{U}",
 	        "type": "Legendary Planeswalker — Claes ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesClaes.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Claes.full.png"
 	        }
 	    },
 	    {
@@ -3200,7 +3182,7 @@
 	        "mana_cost": "{X}{W}{U}",
 	        "type": "Legendary Planeswalker — Elissia ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesElissia.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Elissia.full.png"
 	        }
 	    },
 	    {
@@ -3209,7 +3191,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Legendary Planeswalker — Erwan ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesErwan.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Erwan.full.png"
 	        }
 	    },
 	    {
@@ -3218,7 +3200,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Legendary Planeswalker — Jericho ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesJericho.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Jericho.full.png"
 	        }
 	    },
 	    {
@@ -3227,7 +3209,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Legendary Planeswalker — Kriemhild ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKriemhild.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Kriemhild.full.png"
 	        }
 	    },
 	    {
@@ -3236,7 +3218,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Legendary Planeswalker — Ludolf ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLudolf.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ludolf.full.png"
 	        }
 	    },
 	    {
@@ -3245,7 +3227,7 @@
 	        "mana_cost": "{1}{B}{R}",
 	        "type": "Legendary Planeswalker — Nelta ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNelta.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nelta.full.png"
 	        }
 	    },
 	    {
@@ -3254,7 +3236,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Legendary Planeswalker — Rajabu ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRajabu.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Rajabu.full.png"
 	        }
 	    },
 	    {
@@ -3263,7 +3245,7 @@
 	        "mana_cost": "{1}{U}{B}",
 	        "type": "Legendary Planeswalker — Arif ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Faceless.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Faceless.full.png"
 	        }
 	    },
 	    {
@@ -3272,7 +3254,7 @@
 	        "mana_cost": "{1}{U}{R}",
 	        "type": "Legendary Planeswalker — Tobias ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTobias.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tobias.full.png"
 	        }
 	    },
 	    {
@@ -3281,7 +3263,7 @@
 	        "mana_cost": "{1}{W}{W}",
 	        "type": "Legendary Planeswalker — Tsunayoshi ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTsunayoshi.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tsunayoshi.full.png"
 	        }
 	    },
 	    {
@@ -3290,7 +3272,7 @@
 	        "mana_cost": "{1}{G}{U}",
 	        "type": "Legendary Planeswalker — Tyrus ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTyrus.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Tyrus.full.png"
 	        }
 	    },
 	    {
@@ -3299,7 +3281,7 @@
 	        "mana_cost": "{3}",
 	        "type": "Legendary Artifact Planeswalker — Vice ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVice.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vice.full.png"
 	        }
 	    },
 	    {
@@ -3308,7 +3290,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Legendary Planeswalker — Yaromir ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesYaromir.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Yaromir.full.png"
 	        }
 	    },
 	    {
@@ -3317,7 +3299,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Creature — Nephilim Noble ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSiaveed, Destined to Rule.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Siaveed, Destined to Rule.full.png"
 	        }
 	    },
 	    {
@@ -3326,7 +3308,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesEvercaring Watcher.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Evercaring Watcher.full.png"
 	        }
 	    },
 	    {
@@ -3335,7 +3317,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Angel Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesShepherd of Redemption.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Shepherd of Redemption.full.png"
 	        }
 	    },
 	    {
@@ -3344,7 +3326,7 @@
 	        "mana_cost": "{3}{W}",
 	        "type": "Creature — Cat Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAurora Walker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Aurora Walker.full.png"
 	        }
 	    },
 	    {
@@ -3353,7 +3335,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Sphinx ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNowhere Explorer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nowhere Explorer.full.png"
 	        }
 	    },
 	    {
@@ -3362,7 +3344,7 @@
 	        "mana_cost": "{2}{U}",
 	        "type": "Creature — Human Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNyxcaller.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nyxcaller.full.png"
 	        }
 	    },
 	    {
@@ -3371,7 +3353,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Artifact Creature — Construct ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRabota Line Worker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Rabota Line Worker.full.png"
 	        }
 	    },
 	    {
@@ -3380,7 +3362,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Creature — Sphinx Horror Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAgent of the Council.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Agent of the Council.full.png"
 	        }
 	    },
 	    {
@@ -3389,7 +3371,7 @@
 	        "mana_cost": "{3}{B}",
 	        "type": "Creature — Human Warlock ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFatespinners of Qawwa.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fatespinners of Qawwa.full.png"
 	        }
 	    },
 	    {
@@ -3398,7 +3380,7 @@
 	        "mana_cost": "{4}{B}{B}{B}",
 	        "type": "Creature — Demon ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSyphoner of Hope.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Syphoner of Hope.full.png"
 	        }
 	    },
 	    {
@@ -3407,7 +3389,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Creature — Aetherborn Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesButcher of the Three Paths.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Butcher of the Three Paths.full.png"
 	        }
 	    },
 	    {
@@ -3416,7 +3398,7 @@
 	        "mana_cost": "{4}{B}{B}",
 	        "type": "Creature — Zombie Giant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTitan of Urborg.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Titan of Urborg.full.png"
 	        }
 	    },
 	    {
@@ -3425,7 +3407,7 @@
 	        "mana_cost": "{2}{B}{B}",
 	        "type": "Creature — Insect Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSolitary Mothman.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Solitary Mothman.full.png"
 	        }
 	    },
 	    {
@@ -3434,7 +3416,7 @@
 	        "mana_cost": "{2}{B}{B}{B}",
 	        "type": "Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Final Blade.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Final Blade.full.png"
 	        }
 	    },
 	    {
@@ -3443,7 +3425,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Human Avatar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBalladeer of the Falling Snow.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Balladeer of the Falling Snow.full.png"
 	        }
 	    },
 	    {
@@ -3452,7 +3434,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Dragon Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHeedless Quartzforger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Heedless Quartzforger.full.png"
 	        }
 	    },
 	    {
@@ -3461,7 +3443,7 @@
 	        "mana_cost": "{1}{R}{R}",
 	        "type": "Creature — Phoenix ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSparkborn Phoenix.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Sparkborn Phoenix.full.png"
 	        }
 	    },
 	    {
@@ -3470,7 +3452,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Elemental Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesJuggernaut of Burning Hunger.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Juggernaut of Burning Hunger.full.png"
 	        }
 	    },
 	    {
@@ -3479,7 +3461,7 @@
 	        "mana_cost": "{3}{R}",
 	        "type": "Creature — Azra Pirate ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAzra Thundershaper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Azra Thundershaper.full.png"
 	        }
 	    },
 	    {
@@ -3488,7 +3470,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Human Druid ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAdvocate of the True World.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Advocate of the True World.full.png"
 	        }
 	    },
 	    {
@@ -3497,7 +3479,7 @@
 	        "mana_cost": "{3}{G}",
 	        "type": "Creature — Shark Lizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHammerhead Krasis.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hammerhead Krasis.full.png"
 	        }
 	    },
 	    {
@@ -3506,7 +3488,7 @@
 	        "mana_cost": "{1}{G}{G}",
 	        "type": "Creature — Chimera ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOrphan Maker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Orphan Maker.full.png"
 	        }
 	    },
 	    {
@@ -3515,7 +3497,7 @@
 	        "mana_cost": "{X}{G}",
 	        "type": "Creature — Hydra ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNessian Hydra.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Nessian Hydra.full.png"
 	        }
 	    },
 	    {
@@ -3524,16 +3506,16 @@
 	        "mana_cost": "{U}{U}{R}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCommand of the Twin Oni.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Command of the Twin Oni.full.png"
 	        }
 	    },
 	    {
-	        "name": "Divine Iron: Synthesis",
+	        "name": "Divine Iron Synthesis",
 	        "rarity": "mythic",
 	        "mana_cost": "{2}{U}{B}",
 	        "type": "Creature — Angel Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDivine Iron: Synthesis.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Divine Iron Synthesis.full.png"
 	        }
 	    },
 	    {
@@ -3542,7 +3524,7 @@
 	        "mana_cost": "{2}{U}{U}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesOpen to the Multiverse.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Open to the Multiverse.full.png"
 	        }
 	    },
 	    {
@@ -3551,7 +3533,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Planeswalker — Alamazzar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAlamazzar.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Alamazzar.full.png"
 	        }
 	    },
 	    {
@@ -3560,7 +3542,7 @@
 	        "mana_cost": "{2}{U}{R}",
 	        "type": "Legendary Planeswalker — Aoi Aka ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAoi and Aka.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Aoi and Aka.full.png"
 	        }
 	    },
 	    {
@@ -3569,7 +3551,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Legendary Planeswalker — Derukoskai ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDerukoskai.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Derukoskai.full.png"
 	        }
 	    },
 	    {
@@ -3578,7 +3560,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Legendary Planeswalker — Devika ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesDevika.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Devika.full.png"
 	        }
 	    },
 	    {
@@ -3587,7 +3569,7 @@
 	        "mana_cost": "{2}{R}{G}",
 	        "type": "Legendary Planeswalker — Fane ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFane.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fane.full.png"
 	        }
 	    },
 	    {
@@ -3596,7 +3578,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Legendary Planeswalker — Lidija ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLidija.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Lidija.full.png"
 	        }
 	    },
 	    {
@@ -3605,7 +3587,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature — Construct Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLong-Term Method Actor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Long-Term Method Actor.full.png"
 	        }
 	    },
 	    {
@@ -3614,7 +3596,7 @@
 	        "mana_cost": "{1}{U}{U}",
 	        "type": "Legendary Planeswalker — Marilye ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMarilye.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Marilye.full.png"
 	        }
 	    },
 	    {
@@ -3623,7 +3605,7 @@
 	        "mana_cost": "{2}{R}{R}",
 	        "type": "Legendary Planeswalker — Togar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTogar.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Togar.full.png"
 	        }
 	    },
 	    {
@@ -3632,7 +3614,7 @@
 	        "mana_cost": "{2}{G}{W}",
 	        "type": "Legendary Planeswalker — Vragi ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVragi, Bretagard's Savior.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Vragi, Bretagard's Savior.full.png"
 	        }
 	    },
 	    {
@@ -3641,7 +3623,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMartoob's Evangelist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Martoob's Evangelist.full.png"
 	        }
 	    },
 	    {
@@ -3650,7 +3632,7 @@
 	        "mana_cost": "{4}{U}",
 	        "type": "Creature — Angel Archer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLustrous Seraph.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Lustrous Seraph.full.png"
 	        }
 	    },
 	    {
@@ -3659,7 +3641,7 @@
 	        "mana_cost": "{4}{B}",
 	        "type": "Creature — Demon Insect ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesLord of the Mire.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Lord of the Mire.full.png"
 	        }
 	    },
 	    {
@@ -3668,7 +3650,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Dragon Shaman ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSpawn of Hadak.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Spawn of Hadak.full.png"
 	        }
 	    },
 	    {
@@ -3677,7 +3659,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Creature — Giant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSurtland Rampager.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Surtland Rampager.full.png"
 	        }
 	    },
 	    {
@@ -3686,7 +3668,7 @@
 	        "mana_cost": "{4}{G}",
 	        "type": "Creature — Giant Ranger ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRottimber Lurker.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Rottimber Lurker.full.png"
 	        }
 	    },
 	    {
@@ -3695,7 +3677,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Azra Soldier ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAttwater General.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Attwater General.full.png"
 	        }
 	    },
 	    {
@@ -3704,7 +3686,7 @@
 	        "mana_cost": "{3}{G}{G}",
 	        "type": "Creature — Beast ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesGuardian of the Sacred Grove.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Guardian of the Sacred Grove.full.png"
 	        }
 	    },
 	    {
@@ -3713,7 +3695,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Elemental ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRegal Debris.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Regal Debris.full.png"
 	        }
 	    },
 	    {
@@ -3722,7 +3704,7 @@
 	        "mana_cost": "{3}{W}{B}",
 	        "type": "Creature — Bird Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWarden of the Seasons.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Warden of the Seasons.full.png"
 	        }
 	    },
 	    {
@@ -3731,7 +3713,7 @@
 	        "mana_cost": "{3}{G}{W}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBehold, Soli.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Behold, Soli.full.png"
 	        }
 	    },
 	    {
@@ -3740,7 +3722,7 @@
 	        "mana_cost": "{3}{U}{U}",
 	        "type": "Legendary Planeswalker — Aldegar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAldegar.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Aldegar.full.png"
 	        }
 	    },
 	    {
@@ -3749,7 +3731,7 @@
 	        "mana_cost": "{3}{R}{R}",
 	        "type": "Legendary Planeswalker — Bastazim ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBastazim.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Bastazim.full.png"
 	        }
 	    },
 	    {
@@ -3758,7 +3740,7 @@
 	        "mana_cost": "{4}{B}{G}",
 	        "type": "Legendary Planeswalker — Hayat ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHayat.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hayat.full.png"
 	        }
 	    },
 	    {
@@ -3767,7 +3749,7 @@
 	        "mana_cost": "{2}{R}{R}{R}",
 	        "type": "Legendary Enchantment Planeswalker — Koios ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKoios.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Koios.full.png"
 	        }
 	    },
 	    {
@@ -3776,7 +3758,7 @@
 	        "mana_cost": "{3}{U}{B}",
 	        "type": "Legendary Planeswalker — Salome ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesThe Mysterious Salome.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Mysterious Salome.full.png"
 	        }
 	    },
 	    {
@@ -3785,7 +3767,7 @@
 	        "mana_cost": "{2}{W}{W}",
 	        "type": "Legendary Planeswalker — Sylvia ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSylvia.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Sylvia.full.png"
 	        }
 	    },
 	    {
@@ -3794,7 +3776,7 @@
 	        "mana_cost": "{1}{R}{R}{G}{G}",
 	        "type": "Legendary Planeswalker — Veceslav ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesVeceslav.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Veceslav.full.png"
 	        }
 	    },
 	    {
@@ -3803,7 +3785,7 @@
 	        "mana_cost": "{3}{B}{B}",
 	        "type": "Legendary Planeswalker — Waldemar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesWaldemar.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Waldemar.full.png"
 	        }
 	    },
 	    {
@@ -3812,7 +3794,7 @@
 	        "mana_cost": "{4}{W}{W}",
 	        "type": "Creature — Giant Artificer ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTitan of Trax.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Titan of Trax.full.png"
 	        }
 	    },
 	    {
@@ -3821,7 +3803,7 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Creature — Octopus Shapeshifter ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFathomless Grasper.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Fathomless Grasper.full.png"
 	        }
 	    },
 	    {
@@ -3830,7 +3812,7 @@
 	        "mana_cost": "{4}{R}{R}",
 	        "type": "Creature — Phyrexian Giant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTitan of the Great Furnace.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Titan of the Great Furnace.full.png"
 	        }
 	    },
 	    {
@@ -3839,7 +3821,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Giant Warrior ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTitan of the Rubblebelt.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Titan of the Rubblebelt.full.png"
 	        }
 	    },
 	    {
@@ -3848,7 +3830,7 @@
 	        "mana_cost": "{4}{G}{G}",
 	        "type": "Creature — Crab Mutant ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAbomination of Draszke.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Abomination of Draszke.full.png"
 	        }
 	    },
 	    {
@@ -3857,7 +3839,7 @@
 	        "mana_cost": "{4}{G}{W}",
 	        "type": "Legendary Planeswalker — Aryeh ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAryeh.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Aryeh.full.png"
 	        }
 	    },
 	    {
@@ -3866,7 +3848,7 @@
 	        "mana_cost": "{3}{W}{W}",
 	        "type": "Legendary Planeswalker — Kateryna ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKateryna.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Kateryna.full.png"
 	        }
 	    },
 	    {
@@ -3875,7 +3857,7 @@
 	        "mana_cost": "{5}{U}{U}{U}",
 	        "type": "Legendary Creature — Elemental Wizard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRomowum, the Guide.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Romowum, the Guide.full.png"
 	        }
 	    },
 	    {
@@ -3884,7 +3866,7 @@
 	        "mana_cost": "{6}{G}{G}",
 	        "type": "Creature — Ox Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHooved Reverence.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Hooved Reverence.full.png"
 	        }
 	    },
 	    {
@@ -3893,7 +3875,7 @@
 	        "mana_cost": "{5}{G}{G}",
 	        "type": "Creature — Human Wurm ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAngler Wurm.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Angler Wurm.full.png"
 	        }
 	    },
 	    {
@@ -3902,7 +3884,7 @@
 	        "mana_cost": "{5}{B}{G}",
 	        "type": "Legendary Planeswalker — Ciar ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCiar.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ciar.full.png"
 	        }
 	    },
 	    {
@@ -3911,16 +3893,16 @@
 	        "mana_cost": "{5}{U}{U}",
 	        "type": "Legendary Planeswalker — Haubay ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHaubay.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Haubay.full.png"
 	        }
 	    },
 	    {
 	        "name": "Azra Beatweaver",
 	        "rarity": "mythic",
 	        "mana_cost": "{1}{R}",
-	        "type": "Creature — Azra Rogue ",
+	        "type": "Creature — Azra Bard Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAzra Beatweaver.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Azra Beatweaver.full.png"
 	        }
 	    },
 	    {
@@ -3929,7 +3911,7 @@
 	        "mana_cost": "",
 	        "type": "Token Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesSaga Token.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Saga Token.full.png"
 	        }
 	    },
 	    {
@@ -3938,7 +3920,7 @@
 	        "mana_cost": "",
 	        "type": "Token Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPeyma Saga Token.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Peyma Saga Token.full.png"
 	        }
 	    },
 	    {
@@ -3947,34 +3929,7 @@
 	        "mana_cost": "{2}{R}",
 	        "type": "Token Enchantment Creature — Spirit ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesUnfettered Eidolon.png"
-	        }
-	    },
-	    {
-	        "name": "Rhulha, the Aberrant",
-	        "rarity": "mythic",
-	        "mana_cost": "{2}{G}{G}{G}",
-	        "type": "Legendary Creature — Elder Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRhulha, the Aberrant.png"
-	        }
-	    },
-	    {
-	        "name": "Tethaleeg, the Opulent",
-	        "rarity": "mythic",
-	        "mana_cost": "{3}{U}{U}{U}",
-	        "type": "Legendary Creature — Elder Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTethaleeg, the Opulent.png"
-	        }
-	    },
-	    {
-	        "name": "Nrom, the Chthonic",
-	        "rarity": "mythic",
-	        "mana_cost": "{4}{B}{B}{B}",
-	        "type": "Legendary Creature — Elder Horror ",
-	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesNrom, the Chthonic.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Unfettered Eidolon.full.png"
 	        }
 	    },
 	    {
@@ -3983,7 +3938,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Creature — Angel Horror ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesTo Whom Unity Confers.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/To Whom Unity Confers.full.png"
 	        }
 	    },
 	    {
@@ -3992,7 +3947,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Construct Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRoyal Doctor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Royal Doctor.full.png"
 	        }
 	    },
 	    {
@@ -4001,7 +3956,7 @@
 	        "mana_cost": "{W}",
 	        "type": "Artifact — Equipment ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesBlade of the Worthy.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Blade of the Worthy.full.png"
 	        }
 	    },
 	    {
@@ -4010,7 +3965,7 @@
 	        "mana_cost": "{1}{W}",
 	        "type": "Creature — Orc Scout ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesStonevale Outlander.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Stonevale Outlander.full.png"
 	        }
 	    },
 	    {
@@ -4019,7 +3974,7 @@
 	        "mana_cost": "{1}{B}{B}",
 	        "type": "Creature — Phyrexian Angel Cleric ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesCorrupted Valkyrie.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Corrupted Valkyrie.full.png"
 	        }
 	    },
 	    {
@@ -4028,7 +3983,7 @@
 	        "mana_cost": "{B}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesMarch of Hollowed Bodies.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/March of Hollowed Bodies.full.png"
 	        }
 	    },
 	    {
@@ -4037,7 +3992,7 @@
 	        "mana_cost": "{2}{G}{G}",
 	        "type": "Creature",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHerald of Tkabbir.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Herald of Tkabbir.full.png"
 	        }
 	    },
 	    {
@@ -4046,7 +4001,7 @@
 	        "mana_cost": "{2}{G}",
 	        "type": "Enchantment",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesKaro Stone.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Karo Stone.full.png"
 	        }
 	    },
 	    {
@@ -4055,7 +4010,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesRecoup Vigor.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Recoup Vigor.full.png"
 	        }
 	    },
 	    {
@@ -4064,7 +4019,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Creature — Human Mercenary ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPhyre Wanderer.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Phyre Wanderer.full.png"
 	        }
 	    },
 	    {
@@ -4073,7 +4028,7 @@
 	        "mana_cost": "{G}",
 	        "type": "Creature — Human Bard ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesFeltmark Violinist.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Feltmark Violinist.full.png"
 	        }
 	    },
 	    {
@@ -4082,7 +4037,7 @@
 	        "mana_cost": "{1}{R}",
 	        "type": "Instant",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPunch Out of Reality.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Punch Out of Reality.full.png"
 	        }
 	    },
 	    {
@@ -4091,7 +4046,7 @@
 	        "mana_cost": "{U}",
 	        "type": "Sorcery",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesExpose.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Expose.full.png"
 	        }
 	    },
 	    {
@@ -4100,7 +4055,7 @@
 	        "mana_cost": "{1}{R}{W}",
 	        "type": "Legendary Planeswalker — Ameret ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesAmeret.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Ameret.full.png"
 	        }
 	    },
 	    {
@@ -4109,7 +4064,7 @@
 	        "mana_cost": "{R}",
 	        "type": "Creature — Azra Rogue ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesHigh Roller.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/High Roller.full.png"
 	        }
 	    },
 	    {
@@ -4118,7 +4073,52 @@
 	        "mana_cost": "{4}{W}{B}",
 	        "type": "Legendary Planeswalker — Perceval ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ROS-filesPercy.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Percy.full.png"
+	        }
+	    },
+	    {
+	        "name": "Price of Conquest",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{W}{W}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Price of Conquest.full.png"
+	        }
+	    },
+	    {
+	        "name": "Yoshies Operative",
+	        "rarity": "mythic",
+	        "mana_cost": "{2}{U}",
+	        "type": "Creature — Human Rogue ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Yoshies Operative.full.png"
+	        }
+	    },
+	    {
+	        "name": "Sanctuary of Hidden Light",
+	        "rarity": "mythic",
+	        "mana_cost": "{4}{B}{B}",
+	        "type": "Enchantment",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Sanctuary of Hidden Light.full.png"
+	        }
+	    },
+	    {
+	        "name": "High Guard",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{R}",
+	        "type": "Creature — Cat Soldier ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/High Guard.full.png"
+	        }
+	    },
+	    {
+	        "name": "Haunt of the Yew",
+	        "rarity": "mythic",
+	        "mana_cost": "{3}{G}{G}",
+	        "type": "Creature — Wolf Spirit ",
+	        "image_uris": {
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/Haunt of the Yew.full.png"
 	        }
 	    }
 	]
@@ -4195,7 +4195,6 @@
 		1 Resolute Bugbear
 		1 Ivory Curtain Regular
 		1 Terrel Messenger
-		1 Abbatar, the Whole of Unity
 		1 Silence at Noon
 		1 On the Quest for Friendship
 		1 Alamazzar's Command
@@ -4273,7 +4272,6 @@
 		1 Vizier's Alarm
 		1 Hook Executioner
 		1 Harvey's Outrider
-		1 Zim-Shiggur, Threads of Life
 		1 Finicky Connoisseur
 		1 Bellowing Commands
 		1 Cidraeth Bloodchanter
@@ -4295,7 +4293,7 @@
 		1 Acidic Eruption
 		1 Impending Peril
 		1 Burning Echoes
-		1 Volt Charge
+		1 Volt Surge
 		1 Ferocious Flame
 		1 Sentinel Steelhound
 		1 Endless Iteration
@@ -4422,7 +4420,7 @@
 		1 Rightful Kingsguard
 		1 Well-Connected Lead
 		1 Surprise Maneuver
-		1 Desiccated  Maidens
+		1 Desiccated Maidens
 		1 The Just King
 		1 Joyous Dvorovoi
 		1 Ivory Curtain Roleweaver
@@ -4449,7 +4447,7 @@
 		1 Innerflame Berserker
 		1 Mahnaz of Moonlit Blades
 		1 Skophos Gatekeeper
-		1 Loyalist  of the Old Regime
+		1 Loyalist of the Old Regime
 		1 Conceited Coach
 		1 Inquisitive Gourdweaver
 		1 Minstrel of the Fantastical
@@ -4510,7 +4508,7 @@
 		1 Orphan Maker
 		1 Nessian Hydra
 		1 Command of the Twin Oni
-		1 Divine Iron: Synthesis
+		1 Divine Iron Synthesis
 		1 Open to the Multiverse
 		1 Alamazzar
 		1 Aoi and Aka
@@ -4554,9 +4552,6 @@
 		1 Ciar
 		1 Haubay
 		1 Azra Beatweaver
-		1 Rhulha, the Aberrant
-		1 Tethaleeg, the Opulent
-		1 Nrom, the Chthonic
 		1 To Whom Unity Confers
 		1 Royal Doctor
 		1 Blade of the Worthy
@@ -4573,4 +4568,8 @@
 		1 Ameret
 		1 High Roller
 		1 Percy
-	
+		1 Price of Conquest
+		1 Yoshies Operative
+		1 Sanctuary of Hidden Light
+		1 High Guard
+		1 Haunt of the Yew

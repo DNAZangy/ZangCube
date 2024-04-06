@@ -63,7 +63,7 @@ As Uneasy Lakeside enters, you may reveal a basic Island or basic Swamp from you
  <tablerow>0</tablerow>
  <text>T: Add C.
 1, T: Add one mana of any color. Put a X counter on Grim Marshwood.
-At the beginning of combat on your turn, if Grim Marshwood has 5 or more X counters on it, until end of turn it becomes an X/X b?? creature with indestructible and vigilance, where X is the number of counters on it.</text>
+At the beginning of combat on your turn, if Grim Marshwood has 5 or more X counters on it, until end of turn it becomes an X/X Horror creature with indestructible and vigilance, where X is the number of counters on it.</text>
 </card>
 <card>
  <name>Tomb of the First Scholar</name>
@@ -879,19 +879,6 @@ Compose (Then if you cast this from your hand, exile it and create a Saga token 
 When Terrel Messenger enters, discover 1. (Exile cards from the top of your library until you exile a nonland card with mana value 1 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)</text>
 </card>
 <card>
- <name>Abbatar, the Whole of Unity</name>
- <set rarity="mythic">ZANG</set>
- <color>W</color>
- <manacost>3WW</manacost>
- <cmc>5</cmc>
- <type>Legendary Creature - Elder Horror </type>
- <pt>5/3</pt>
- <tablerow>2</tablerow>
- <text>Flying
-Whenever an opponent casts a spell, draw a card unless that player pays 2.
-You may cast Abbatar, the Whole of Unity from your graveyard by discarding two cards as an additional cost to cast it.</text>
-</card>
-<card>
  <name>Silence at Noon</name>
  <set rarity="mythic">ZANG</set>
  <color>W</color>
@@ -1148,7 +1135,7 @@ You may discard a card. If you do, search your library for an artifact card, rev
  <cmc>1</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Buyback—Discard a card. (You may discard a card in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+ <text>As an additional cost to cast this spell, you may discard a card. If you do, return it to your hand as it resolves.
 Scry 1, then draw a card. You can’t cast spells named Stargazing this turn.</text>
 </card>
 <card>
@@ -1436,11 +1423,11 @@ When your library has five or fewer cards in it, sacrifice Call of Marit Lage. I
  <cmc>2</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text>
+ <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 Flash
-Tap target creature and put two stun counters on it.
-Surveil 2.
-Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+I — Tap target creature and put two stun counters on it.
+II — Surveil 2.
+III — Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
  <name>Nonstop Shop</name>
@@ -1595,7 +1582,7 @@ When you cycle Hayat’s Plague, remove all counters from target permanent.</tex
  <cmc>2</cmc>
  <type>Sorcery</type>
  <tablerow>3</tablerow>
- <text>Put two -1/-1 counters on target creature. Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+ <text>Distribute two -1/-1 counters among one or two target creatures. Proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
  <name>Splendid Massacre</name>
@@ -1702,7 +1689,7 @@ Compose (Then if you cast this from your hand, exile it and create a Saga token 
  <cmc>3</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>At the beginning of your upkeep, each player discards a card. If you discarded the card with the greatest mana value or tied for the greatest mana value this way, return a creature card from your graveyard at random to your hand.</text>
+ <text>At the beginning of your upkeep, each player discards a card. If you discarded the card with the greatest mana value or tied for the greatest mana value this way, draw a card.</text>
 </card>
 <card>
  <name>Murder of the Mind</name>
@@ -1774,19 +1761,6 @@ When Vizier’s Alarm dies, put a +1/+1 counter on target creature you control.<
  <text>Whenever an artifact enters under your control, Harvey’s Outrider gets +1/+0 and gains haste until end of turn.</text>
 </card>
 <card>
- <name>Zim-Shiggur, Threads of Life</name>
- <set rarity="mythic">ZANG</set>
- <color>R</color>
- <manacost>3RR</manacost>
- <cmc>5</cmc>
- <type>Legendary Creature - Elder Horror </type>
- <pt>5/4</pt>
- <tablerow>2</tablerow>
- <text>Haste
-Whenever Zim-Shiggur, Threads of Life attacks, discard your hand, then draw that many cards plus one.
-You may cast Zim-Shiggur from your graveyard by discarding two cards as an additional cost to cast it.</text>
-</card>
-<card>
  <name>Finicky Connoisseur</name>
  <set rarity="mythic">ZANG</set>
  <color>R</color>
@@ -1842,7 +1816,7 @@ Whenever Wraithslayer deals combat damage to a player, that player exiles the to
  <cmc>1</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text>
+ <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create a 1/1 red Warrior creature token with prowess.
 II — Discard a card. If you do, draw a card.
 III — You may return target instant or sorcery card from your graveyard to your hand.</text>
@@ -2035,14 +2009,14 @@ You may discard a card. If you do, draw a card.</text>
 Compose (Then if you cast this from your hand, exile it and create a Saga token with “r3—You may cast a copy of this card from exile without paying its mana cost.”)</text>
 </card>
 <card>
- <name>Volt Charge</name>
+ <name>Volt Surge</name>
  <set rarity="mythic">ZANG</set>
  <color>R</color>
- <manacost>2R</manacost>
- <cmc>3</cmc>
+ <manacost>1R</manacost>
+ <cmc>2</cmc>
  <type>Instant</type>
  <tablerow>3</tablerow>
- <text>Volt Charge deals 3 damage to any target. Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+ <text>Volt Surge deals 3 damage to any target. Proliferate (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
  <name>Ferocious Flame</name>
@@ -2236,7 +2210,7 @@ Escape—1G, Exile three other cards from your graveyard. (You may cast this car
  <cmc>1</cmc>
  <type>Enchantment - Saga </type>
  <tablerow>1</tablerow>
- <text>
+ <text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
 I — Target creature you control fights up to one target creature you don’t control.
 II — Mill three cards.
 III — Return up to one creature card and up to one land card from your graveyard to your hand.</text>
@@ -2354,12 +2328,12 @@ Whenever Bastion of Stars attacks, exile the top four cards of each player’s l
  <name>Memnarch's Eyes</name>
  <set rarity="mythic">ZANG</set>
  <color></color>
- <manacost>3</manacost>
- <cmc>3</cmc>
+ <manacost>2</manacost>
+ <cmc>2</cmc>
  <type>Artifact Creature - Myr </type>
- <pt>3/1</pt>
+ <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>When Memnarch’s Eyes enters or dies, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
+ <text>When Memnarch’s Eyes enters or dies, you may discard a card. If you do, draw a card.</text>
 </card>
 <card>
  <name>Structural Plans</name>
@@ -2482,7 +2456,7 @@ T, Tap three untapped creatures you control: Create a Clue token.</text>
  <cmc>2</cmc>
  <type>Artifact</type>
  <tablerow>1</tablerow>
- <text>Exile a card from your graveyard, T: Add C or one mana of the exiled card’s colors.</text>
+ <text>T, Exile a card from your graveyard: Add C or one mana of the exiled card’s colors.</text>
 </card>
 <card>
  <name>Mysterious Cauldron</name>
@@ -2616,7 +2590,7 @@ T, Sacrifice Tome of Silent Mouths: Draw three cards, then put two cards from yo
  <type>Sorcery</type>
  <tablerow>3</tablerow>
  <text>Choose one —
-• Put three -1/-1 counters on target creature.
+• Put three -1/-1 counters on target permanent.
 • Remove three counters from target permanent.</text>
 </card>
 <card>
@@ -2881,7 +2855,7 @@ Whenever Seeker of Buried Fortunes deals combat damage to a player, create a tap
  <pt>1/2</pt>
  <tablerow>2</tablerow>
  <text>When Selezzar’s Treasurehunter enters, create a tapped Treasure token and Selezzar’s Treasurehunter deals 1 damage to you.
-Whenever an artifact or enchantment is put into a graveyard from the battlefield, Selezzar’s Treasurehunter deals 1 damage to target player.</text>
+Whenever an artifact or enchantment is put into your graveyard from the battlefield, Selezzar’s Treasurehunter deals 1 damage to target player.</text>
 </card>
 <card>
  <name>Malevolent Thug</name>
@@ -2904,7 +2878,7 @@ Whenever an enchantment enters under your control, proliferate. (Choose any numb
  <type>Creature - Shade </type>
  <pt>2/2</pt>
  <tablerow>2</tablerow>
- <text>Pay 2 life, B: Prowling Darkness gets +1/+1 until end of turn.
+ <text>B, Pay 2 life: Prowling Darkness gets +1/+1 until end of turn.
 At the beginning of each end step, if a player has lost 4 or more life this turn, create a Weapon token and attach it to a creature you control. (It’s an Equipment artifact with equip 2 and “Equipped creature gets +1/+1.”)</text>
 </card>
 <card>
@@ -3104,7 +3078,7 @@ Whenever a source you control deals noncombat damage to an opponent, put a +1/+1
  <pt>2/2</pt>
  <tablerow>2</tablerow>
  <text>When Elegant Ritualist enters, create a Weapon token. (It’s an Equipment artifact with equip 2 and “Equipped creature gets +1/+1.”)
-Sacrifice an artifact, T: Exile the top card of your library. You may play that card this turn.</text>
+T, Sacrifice an artifact: Exile the top card of your library. You may play that card this turn.</text>
 </card>
 <card>
  <name>Devourerer of Cosmos</name>
@@ -3413,7 +3387,7 @@ Planeswalkers enter under your control with an additional loyalty counter on the
  <loyalty>2</loyalty>
  <tablerow>1</tablerow>
  <text>[+1]: Amass Soldiers 1. (Put a +1/+1 counter on an Army you control. It’s also a Soldier. If you don’t control one, create a 0/0 black Soldier Army creature token first.)
-[-2]: Recruit. (Create a 0/0 white Soldier Army creature token, then put a +1/+1 counter on each Army you control.)
+[-2]: Put a +1/+1 counter on each creature you control.
 [-6]: Creatures you control get +1/+1 and gain double strike until end of turn.
 </text>
 </card>
@@ -3519,7 +3493,7 @@ When Omen of Destiny enters, it deals 4 damage to any target.
  <text>Target player sacrifices an attacking or blocking creature.</text>
 </card>
 <card>
- <name>Desiccated  Maidens</name>
+ <name>Desiccated Maidens</name>
  <set rarity="mythic">ZANG</set>
  <color>W</color>
  <manacost>2W</manacost>
@@ -3527,8 +3501,8 @@ When Omen of Destiny enters, it deals 4 damage to any target.
  <type>Creature - Zombie </type>
  <pt>2/1</pt>
  <tablerow>2</tablerow>
- <text>Desiccated  Maidens enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
-When Desiccated  Maidens enters, exile target creature an opponent controls until Desiccated  Maidens leaves the battlefield.</text>
+ <text>Desiccated Maidens enters with a shield counter on it. (If it would be dealt damage or destroyed, remove a shield counter from it instead.)
+When Desiccated Maidens enters, exile target creature an opponent controls until Desiccated Maidens leaves the battlefield.</text>
 </card>
 <card>
  <name>The Just King</name>
@@ -3637,7 +3611,7 @@ When Nautopian Seashaper enters, if you cast it, create a token that’s a copy 
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>Whenever you cast a blue spell, choose up to X, where X is the number of blue mana symbols in that spell’s mana cost —
-• Surveil 1.  (Look at the top card of your library. You may put that card into your graveyard.)
+• Surveil 1. (Look at the top card of your library. You may put that card into your graveyard.)
 • You may tap or untap target creature.
 • Put a stun counter on target nonland permanent.
 • Draw a card, then discard a card.</text>
@@ -3856,7 +3830,7 @@ At the beginning of combat on your turn, recruit. (Create a 0/0 white Soldier Ar
  <text>Whenever an opponent is dealt noncombat damage, proliferate. (Choose any number of permanents and/or players with counters on them, then give each another counter of each kind already there.)</text>
 </card>
 <card>
- <name>Loyalist  of the Old Regime</name>
+ <name>Loyalist of the Old Regime</name>
  <set rarity="mythic">ZANG</set>
  <color>R</color>
  <manacost>2R</manacost>
@@ -4237,7 +4211,7 @@ Whenever one or more sources you control deal damage to an opponent, proliferate
  <type>Legendary Planeswalker - Rajabu </type>
  <loyalty>3</loyalty>
  <tablerow>1</tablerow>
- <text>Whenever another noncreature source you control deals damage to an opponent or a permanent an opponent controls, put a loyalty counter on Rajabu.
+ <text>Whenever another noncreature source you control deals damage to an opponent or a permanent an opponent controls, put a loyalty counter on Rajabu. This ability triggers once each turn.
 [+1]: Add RR. You can’t use this mana to cast permanent spells.
 [-3]: Rajabu deals 4 damage to target creature or planeswalker.
 [-8]: Each opponent sacrifices five permanents. Rajabu deals 5 damage to each opponent.
@@ -4445,7 +4419,7 @@ The second spell you cast each turn costs 2 less to cast.</text>
  <type>Creature - Demon </type>
  <pt>7/7</pt>
  <tablerow>2</tablerow>
- <text>Flying
+ <text>Flying, lifelink
 You may pay life equal to a spell’s mana value rather than pay its mana cost.</text>
 </card>
 <card>
@@ -4754,7 +4728,7 @@ Basic landcycling 1G (1G, Discard this card: Search your library for a basic lan
  <type>Legendary Planeswalker - Marilye </type>
  <loyalty>4</loyalty>
  <tablerow>1</tablerow>
- <text>[+1]: Reveal the top card of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
+ <text>[+1]: Reveal cards from the top of your library until you reveal an artifact card. Put that card into your hand and the rest on the bottom of your library in a random order.
 [-X]: Create a token that’s a copy of target artifact with mana value X.
 [-8]: You get an emblem with “Whenever you cast an artifact spell, gain control of target nonland permanent with mana value less than or equal to that spell.”
 </text>
@@ -4922,7 +4896,7 @@ Whenever an opponent loses life, you gain that much life. (Damage causes loss of
  <cmc>5</cmc>
  <type>Enchantment</type>
  <tablerow>1</tablerow>
- <text>If one or more counters would be put on a creature you control, twice that many counters are put on that permanent instead.
+ <text>If you would put one or more counters  on a creature you control, twice that many counters are put on that permanent instead.
 Whenever you tap a permanent for mana, add one mana of any type that permanent produced.</text>
 </card>
 <card>
@@ -5036,7 +5010,7 @@ Whenever you tap a permanent for mana, add one mana of any type that permanent p
  <tablerow>1</tablerow>
  <text>At the beginning of each opponent’s upkeep, if that player has no cards in hand, you draw a card and Waldemar deals 1 damage to you.
 [+1]: Target player discards a card. If they can’t, that player sacrifices a nonland permanent.
-[-2]: Destroy target creature unless its controller discards two cards.
+[-3]: Target player exiles a nonland permanent they control. You may play that card for as long as it remains exiled, and mana of any type can be spent to cast it.
 </text>
 </card>
 <card>
@@ -5203,7 +5177,7 @@ Whenever Angler Wurm deals combat damage to a player, create a token that’s a 
  <color>R</color>
  <manacost>1R</manacost>
  <cmc>2</cmc>
- <type>Creature - Azra Rogue </type>
+ <type>Creature - Azra Bard Rogue </type>
  <pt>0/3</pt>
  <tablerow>2</tablerow>
  <text>Azra Beatweaver has first strike as long as it’s attacking.
@@ -5245,45 +5219,6 @@ I, II, III, IV, V, VI, C — Whenever you put a lore counter on this Saga, put a
  <pt>3/3</pt>
  <tablerow>2</tablerow>
  <text>Unfettered Eidolon can’t block unless you control another enchantment.</text>
-</card>
-<card>
- <name>Rhulha, the Aberrant</name>
- <set rarity="mythic">ZANG</set>
- <color>G</color>
- <manacost>2GGG</manacost>
- <cmc>5</cmc>
- <type>Legendary Creature - Elder Horror </type>
- <pt>6/6</pt>
- <tablerow>2</tablerow>
- <text>Trample
-At the beginning of your upkeep, return a card at random from your graveyard to your hand.
-You may cast Rhulha, the Aberrant from your graveyard by discarding two cards as an additional cost to cast it. </text>
-</card>
-<card>
- <name>Tethaleeg, the Opulent</name>
- <set rarity="mythic">ZANG</set>
- <color>U</color>
- <manacost>3UUU</manacost>
- <cmc>6</cmc>
- <type>Legendary Creature - Elder Horror </type>
- <pt>4/7</pt>
- <tablerow>2</tablerow>
- <text>Tethaleeg, the Opulent can’t be blocked.
-Whenever a player casts a noncreature spell, draw a card.
-You may cast Tethaleeg from your graveyard by discarding two cards in addition to paying its other costs.</text>
-</card>
-<card>
- <name>Nrom, the Chthonic</name>
- <set rarity="mythic">ZANG</set>
- <color>B</color>
- <manacost>4BBB</manacost>
- <cmc>7</cmc>
- <type>Legendary Creature - Elder Horror </type>
- <pt>9/6</pt>
- <tablerow>2</tablerow>
- <text>Lifelink
-Pay 3 life: Draw a card.
-You may cast Nrom, the Chthonic from your graveyard by discarding two cards as an additional cost to cast it.</text>
 </card>
 <card>
  <name>To Whom Unity Confers</name>
@@ -5472,6 +5407,65 @@ Whenever High Roller or another creature you control with menace dies, High Roll
 [+1]: Each opponent loses 3 life. You gain 3 life. 
 [-2]: Destroy target tapped nonland permanent.
 </text>
+</card>
+<card>
+ <name>Price of Conquest</name>
+ <set rarity="mythic">ZANG</set>
+ <color>W</color>
+ <manacost>2WW</manacost>
+ <cmc>4</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>Whenever one or more creatures attack you or a planeswalker you control, Price of Conquest deals damage to target attacking creature equal to the number of attacking creatures.</text>
+</card>
+<card>
+ <name>Yoshies Operative</name>
+ <set rarity="mythic">ZANG</set>
+ <color>U</color>
+ <manacost>2U</manacost>
+ <cmc>3</cmc>
+ <type>Creature - Human Rogue </type>
+ <pt>3/1</pt>
+ <tablerow>2</tablerow>
+ <text>Deception 1U (1U, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Yoshie’s Operative deals combat damage to a player or planeswalker, draw two cards, then discard two cards.</text>
+</card>
+<card>
+ <name>Sanctuary of Hidden Light</name>
+ <set rarity="mythic">ZANG</set>
+ <color>B</color>
+ <manacost>4BB</manacost>
+ <cmc>6</cmc>
+ <type>Enchantment</type>
+ <tablerow>1</tablerow>
+ <text>At the beginning of your upkeep, return target creature card from your graveyard to the battlefield.
+B, Discard Sanctuary of Hidden Light: Return target creature card from your graveyard to your hand.</text>
+</card>
+<card>
+ <name>High Guard</name>
+ <set rarity="mythic">ZANG</set>
+ <color>R</color>
+ <manacost>3R // 1R</manacost>
+ <cmc>4</cmc>
+ <type>Creature - Cat Soldier  // Sorcery - Adventure </type>
+ <pt>3/3</pt>
+ <tablerow>3</tablerow>
+ <text>Prowess
+At the beginning of your upkeep, return an instant or sorcery card at random from your graveyard to your hand.
+--- 
+Discard two cards, then draw two cards.</text>
+</card>
+<card>
+ <name>Haunt of the Yew</name>
+ <set rarity="mythic">ZANG</set>
+ <color>G</color>
+ <manacost>3GG</manacost>
+ <cmc>5</cmc>
+ <type>Creature - Wolf Spirit </type>
+ <pt>5/5</pt>
+ <tablerow>2</tablerow>
+ <text>Whenever another creature enters the battlefield under your control, judge it. (Honor it by putting a +1/+1 counter on it or condemn it by sacrificing it to draw a card.)
+Whenever you sacrifice a creature, put a +1/+1 counter on Haunt of the Yew.</text>
 </card>
 
 <!-->Tokens</-->
