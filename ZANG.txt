@@ -1355,7 +1355,7 @@
 	        "mana_cost": "{1}{B}",
 	        "type": "Enchantment — Saga ",
 	        "image_uris": {
-	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Decline of Dr. Vaughn.full.png"
+	            "en": "https://raw.githubusercontent.com/DNAZangy/Zangcube/main/ZANG-files/The Decline of Dr Vaughn.full.png"
 	        }
 	    },
 	    {
